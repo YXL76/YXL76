@@ -6,13 +6,35 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  update:
+  update-wakatime:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
       - name: Update wakatime
         uses: matchai/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GIST_TOKEN }}
           GIST_ID: fa9ef0deb6800d867c1598195d51bc22
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Release Test
+    needs: update-wakatime
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "14"
+      - name: Update Readme
+        run: node build.js
+      - name: push
+        run: |-
+          git diff
+          git config --global user.email "chenxin.lan.76@gmail.com"
+          git config --global user.name "YXL"
+          git pull
+          git add -A
+          git commit -m "Updated readme" || exit 0
+          git push
