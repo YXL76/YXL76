@@ -30,6 +30,9 @@ https.get(
               douban = result.rss.channel[0].item.map(
                 ({ title, link, pubDate }) => {
                   date = pubDate[0].split(" ");
+                  if (title[0].slice(0, 2) === "最近") {
+                    title[0] = title[0].slice(2);
+                  }
                   return `- ${title[0].slice(0, 2)}[《${title[0].slice(2)}》](${
                     link[0]
                   }) - \`${date[3]}-${date[2]}-${date[1]} ${date[4]}\``;
