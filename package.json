@@ -1,0 +1,9 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YXL76/YXL76.git"
+  },
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
