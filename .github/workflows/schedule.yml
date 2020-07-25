@@ -8,9 +8,9 @@ on:
 jobs:
   update-wakatime:
     runs-on: ubuntu-latest
+    name: Update wakatime
     steps:
-      - name: Update wakatime
-        uses: matchai/waka-box@master
+      - uses: matchai/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GIST_TOKEN }}
           GIST_ID: fa9ef0deb6800d867c1598195d51bc22
@@ -18,7 +18,7 @@ jobs:
 
   update-readme:
     runs-on: ubuntu-latest
-    name: Release Test
+    name: Update readme
     needs: update-wakatime
     steps:
       - name: Checkout
