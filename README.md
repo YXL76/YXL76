@@ -16,16 +16,16 @@ JSON        1 hr 58 mins   ██░░░░░░░░░░░░░░░�
 
 ### 📚 Douban activities
 
+- 看过[《本杰明·巴顿奇事》](http://movie.douban.com/subject/1485260/) - `2020-7-28 16:31:50`
+- 想看[《奥兰多》](http://movie.douban.com/subject/1301895/) - `2020-7-28 16:19:51`
+- 看过[《哥斯拉2：怪兽之王》](http://movie.douban.com/subject/25890017/) - `2020-7-28 09:23:43`
+- 读过[《长夜难明》](https://book.douban.com/subject/26923390/) - `2020-7-28 05:22:34`
 - 看过[《颠倒的帕特玛》](http://movie.douban.com/subject/10001432/) - `2020-7-27 15:06:59`
 - 看过[《十二宫》](http://movie.douban.com/subject/1781126/) - `2020-7-27 14:10:48`
 - 看过[《白箱》](http://movie.douban.com/subject/25955381/) - `2020-7-27 12:27:53`
 - 在看[《宇崎酱想要玩耍》](http://movie.douban.com/subject/34965632/) - `2020-7-27 06:35:06`
 - 看过[《禁闭岛》](http://movie.douban.com/subject/2334904/) - `2020-7-26 15:26:59`
 - 想看[《红发少女安妮》](http://movie.douban.com/subject/2309883/) - `2020-7-26 10:22:05`
-- 想看[《种树的牧羊人》](http://movie.douban.com/subject/1422073/) - `2020-7-26 08:32:49`
-- 想看[《红雀》](http://movie.douban.com/subject/25704492/) - `2020-7-26 06:15:52`
-- 读过[《论摄影》](https://book.douban.com/subject/4282084/) - `2020-7-26 06:01:44`
-- 看过[《互联网之子》](http://movie.douban.com/subject/25785114/) - `2020-7-24 15:02:51`
 
 <!--
 **YXL76/YXL76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
