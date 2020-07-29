@@ -55,15 +55,44 @@ https.get(
 [![Website](https://img.shields.io/website?style=for-the-badge&up_message=Blog&url=https%3A%2F%2Fyxl76.net%2F&color=brightgreen)](https://yxl76.net)
 [![GitHub last commit](https://img.shields.io/github/last-commit/YXL76/YXL76?label=update&style=for-the-badge&color=orange)](https://github.com/YXL76/YXL76)
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔭 Github stats
+
+![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&hide=issues&count_private=true&show_icons=true&theme=tokyonight)
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🌱 Top languages
+
+![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=tokyonight)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 ### 📊 Weekly development breakdown
 
 \`\`\`text
 ${weekly}
+Other ...
 \`\`\`
+
+</td>
+<td valign="top" width="50%">
 
 ### 📚 Douban activities
 
 ${douban.join("\n")}
+
+</td>
+</tr>
+</table>
 
 <!--
 **YXL76/YXL76** is a ✨ _special_ ✨ repository because its \`README.md\` (this file) appears on your GitHub profile.
