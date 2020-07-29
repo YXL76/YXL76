@@ -23,6 +23,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Clone wakatime data
+        run: git clone https://gist.github.com/fa9ef0deb6800d867c1598195d51bc22.git
       - name: Install Node.js
         uses: actions/setup-node@v1
         with:
