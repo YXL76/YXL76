@@ -75,7 +75,7 @@ https.get(
 
 <table>
 <tr>
-<td valign="top" width="53%">
+<td valign="top" width="54%">
 
 ### 🔭 Github stats
 
@@ -83,7 +83,7 @@ https.get(
 
 </td>
 
-<td valign="top" width="47%">
+<td valign="top" width="46%">
 
 ### 🌱 Top languages
 
@@ -92,16 +92,17 @@ https.get(
 </td>
 </tr>
 <tr>
-<td valign="top" width="53%">
+<td valign="top" width="54%" style="font-size: 16px;">
 
 ### 📊 Weekly development breakdown
 
 \`\`\`text
 ${weekly.join("\n")}
+Other ...
 \`\`\`
 
 </td>
-<td valign="top" width="47%">
+<td valign="top" width="46%">
 
 ### 📚 Douban activities
 
