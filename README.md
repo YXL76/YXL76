@@ -10,7 +10,7 @@
 
 ### 🔭 Github stats
 
-![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&hide=issues&count_private=true&show_icons=true&theme=tokyonight)
+![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&theme=tokyonight)
 
 </td>
 
