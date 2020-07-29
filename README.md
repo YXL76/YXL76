@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td valign="top" width="53%">
+<td valign="top" width="54%">
 
 ### 🔭 Github stats
 
@@ -14,7 +14,7 @@
 
 </td>
 
-<td valign="top" width="47%">
+<td valign="top" width="46%">
 
 ### 🌱 Top languages
 
@@ -23,7 +23,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="53%">
+<td valign="top" width="54%" style="font-size: 16px;">
 
 ### 📊 Weekly development breakdown
 
@@ -38,10 +38,11 @@ TypeScript
  └─────  1 hr 15 mins   ███▋░░░░░░░░░░░░░░░░░  17.6%
 YAML
  └─────  52 mins        ██▌░░░░░░░░░░░░░░░░░░  12.2%
+Other ...
 ```
 
 </td>
-<td valign="top" width="47%">
+<td valign="top" width="46%">
 
 ### 📚 Douban activities
 
