@@ -17,9 +17,27 @@ const mouth = {
   Dec: 12,
 };
 
-const weekly = readFileSync(
-  "./fa9ef0deb6800d867c1598195d51bc22/📊 Weekly development breakdown"
+let weekly = readFileSync(
+  "./fa9ef0deb6800d867c1598195d51bc22/📊 Weekly development breakdown",
+  "utf-8"
 );
+
+weekly = weekly.split("\n");
+
+let index = 0;
+while (weekly[0][index] !== " ") {
+  ++index;
+}
+while (weekly[0][index] === " ") {
+  ++index;
+}
+
+weekly = weekly.map((item) => {
+  const l = item.slice(0, index);
+  const r = item.slice(index);
+  return `${l.trim()}
+ └─────  ${r}`;
+});
 
 let douban = "";
 
@@ -57,7 +75,7 @@ https.get(
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="53%">
 
 ### 🔭 Github stats
 
@@ -65,7 +83,7 @@ https.get(
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="47%">
 
 ### 🌱 Top languages
 
@@ -74,17 +92,16 @@ https.get(
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="53%">
 
 ### 📊 Weekly development breakdown
 
 \`\`\`text
-${weekly}
-Other ...
+${weekly.join("\n")}
 \`\`\`
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="47%">
 
 ### 📚 Douban activities
 
