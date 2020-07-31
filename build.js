@@ -36,7 +36,7 @@ weekly = weekly.map((item) => {
   const l = item.slice(0, index);
   const r = item.slice(index);
   return `${l.trim()}
- └─────  ${r}`;
+  └─────   ${r}`;
 });
 
 let douban = "";
@@ -92,7 +92,7 @@ https.get(
 </td>
 </tr>
 <tr>
-<td valign="top" width="54%" style="font-size: 16px;">
+<td valign="top" width="54%">
 
 ### 📊 Weekly development breakdown
 
