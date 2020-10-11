@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/YXL76?style=for-the-badge&color=blue)](https://github.com/YXL76?tab=followers)
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Blog&url=https%3A%2F%2Fyxl76.net%2F&color=brightgreen)](https://yxl76.net)
-[![GitHub last commit](https://img.shields.io/github/last-commit/YXL76/YXL76?label=update&style=for-the-badge&color=orange)](https://github.com/YXL76/YXL76)
-
 <table>
 <tr>
 <td valign="top" width="54%">
