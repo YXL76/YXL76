@@ -6,16 +6,6 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  update-wakatime:
-    runs-on: ubuntu-latest
-    name: Update wakatime
-    steps:
-      - uses: matchai/waka-box@master
-        env:
-          GH_TOKEN: ${{ secrets.GIST_TOKEN }}
-          GIST_ID: fa9ef0deb6800d867c1598195d51bc22
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
   update-readme:
     runs-on: ubuntu-latest
     name: Update readme
@@ -23,21 +13,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Clone wakatime data
-        run: git clone https://gist.github.com/fa9ef0deb6800d867c1598195d51bc22.git
-      - name: Install Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: "14"
       - run: yarn
       - name: Update Readme
         run: node build.js
       - name: push
-        run: |-
-          git diff
+        run: |
           git config --global user.email "chenxin.lan.76@gmail.com"
           git config --global user.name "YXL"
-          git pull
           git add -A
-          git commit -m "Updated readme" || exit 0
+          git commit -m "Updated readme"
           git push

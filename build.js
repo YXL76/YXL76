@@ -1,6 +1,6 @@
 const https = require("https");
 const xml2js = require("xml2js");
-const { readFileSync, writeFileSync } = require("fs");
+const { writeFileSync } = require("fs");
 
 const mouth = {
   Jan: 1,
@@ -16,28 +16,6 @@ const mouth = {
   Nov: 11,
   Dec: 12,
 };
-
-let weekly = readFileSync(
-  "./fa9ef0deb6800d867c1598195d51bc22/📊 Weekly development breakdown",
-  "utf-8"
-);
-
-weekly = weekly.split("\n");
-
-let index = 0;
-while (weekly[0][index] !== " ") {
-  ++index;
-}
-while (weekly[0][index] === " ") {
-  ++index;
-}
-
-weekly = weekly.map((item) => {
-  const l = item.slice(0, index);
-  const r = item.slice(index);
-  return `${l.trim()}
-  └─────   ${r}`;
-});
 
 let douban = "";
 
@@ -75,7 +53,7 @@ https.get(
 
 ### 🔭 Github stats
 
-![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&theme=tokyonight)
+![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&theme=tokyonight&line_height=33)
 
 </td>
 
@@ -83,7 +61,7 @@ https.get(
 
 ### 🌱 Top languages
 
-![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=tokyonight&langs_count=10&hide=HTML,CSS,SCSS)
 
 </td>
 </tr>
@@ -92,10 +70,8 @@ https.get(
 
 ### 📊 Weekly development breakdown
 
-\`\`\`text
-${weekly.join("\n")}
-Other ...
-\`\`\`
+![Wakatime stats](https://github-readme-stats.yxl76.vercel.app/api/wakatime?username=YXL76&layout=compact&theme=tokyonight)
+
 
 </td>
 <td valign="top" width="46%">

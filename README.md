@@ -6,7 +6,7 @@
 
 ### 🔭 Github stats
 
-![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&theme=tokyonight)
+![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&theme=tokyonight&line_height=33)
 
 </td>
 
@@ -14,7 +14,7 @@
 
 ### 🌱 Top languages
 
-![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=tokyonight&langs_count=10&hide=HTML,CSS,SCSS)
 
 </td>
 </tr>
@@ -23,19 +23,8 @@
 
 ### 📊 Weekly development breakdown
 
-```text
-TypeScript
-  └─────   12 hrs 13 mins ███████▎░░░░░░░░░░░░░  34.7%
-Go
-  └─────   5 hrs 36 mins  ███▎░░░░░░░░░░░░░░░░░  15.9%
-Rust
-  └─────   4 hrs 20 mins  ██▌░░░░░░░░░░░░░░░░░░  12.3%
-JavaScript
-  └─────   3 hrs 26 mins  ██░░░░░░░░░░░░░░░░░░░   9.8%
-Python
-  └─────   2 hrs 2 mins   █▏░░░░░░░░░░░░░░░░░░░   5.8%
-Other ...
-```
+![Wakatime stats](https://github-readme-stats.yxl76.vercel.app/api/wakatime?username=YXL76&layout=compact&theme=tokyonight)
+
 
 </td>
 <td valign="top" width="46%">
