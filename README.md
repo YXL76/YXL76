@@ -6,7 +6,7 @@
 
 ### 🔭 Github stats
 
-![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&theme=tokyonight&line_height=33)
+![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&theme=tokyonight)
 
 </td>
 
@@ -14,7 +14,7 @@
 
 ### 🌱 Top languages
 
-![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=tokyonight&langs_count=10&hide=HTML,CSS,SCSS)
+![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=tokyonight)
 
 </td>
 </tr>
