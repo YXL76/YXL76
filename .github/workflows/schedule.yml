@@ -20,5 +20,5 @@ jobs:
           git config --global user.email "chenxin.lan.76@gmail.com"
           git config --global user.name "YXL"
           git add -A
-          git commit -m "Updated readme"
+          git commit -m "Updated readme" || exit 0
           git push
