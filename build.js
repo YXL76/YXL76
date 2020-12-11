@@ -53,7 +53,7 @@ https.get(
 
 ### 🔭 Github stats
 
-![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&theme=tokyonight&line_height=33)
+![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&theme=tokyonight&line_height=28)
 
 </td>
 
