@@ -9,7 +9,6 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     name: Update readme
-    needs: update-wakatime
     steps:
       - name: Checkout
         uses: actions/checkout@v2
