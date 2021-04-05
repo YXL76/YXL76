@@ -31,16 +31,16 @@
 
 ### 📚 Douban activities
 
+- 看过[《刺杀》](http://movie.douban.com/subject/34907416/) - `2021-4-04 15:56:24`
+- 在看[《SSSS.电光机王》](http://movie.douban.com/subject/34915462/) - `2021-4-04 13:20:22`
+- 在看[《扰乱 The Princess of Snow and Blood》](http://movie.douban.com/subject/35370656/) - `2021-4-04 13:03:14`
+- 在看[《如果这叫恋爱感觉会很恶心》](http://movie.douban.com/subject/34961657/) - `2021-4-04 05:43:21`
+- 在看[《Vivy -Fluorite Eye’s Song-》](http://movie.douban.com/subject/35332489/) - `2021-4-04 05:14:28`
 - 看过[《堀与宫村》](http://movie.douban.com/subject/35205803/) - `2021-4-03 16:53:16`
 - 看过[《疯狂原始人2》](http://movie.douban.com/subject/24298954/) - `2021-4-03 16:15:37`
 - 看过[《疯狂原始人》](http://movie.douban.com/subject/1907966/) - `2021-4-03 12:51:30`
 - 看过[《BLACKPINK：照亮天空》](http://movie.douban.com/subject/35202366/) - `2021-4-03 09:02:20`
 - 看过[《明亮的星》](http://movie.douban.com/subject/2072848/) - `2021-4-03 03:09:48`
-- 想看[《纽伦堡的审判》](http://movie.douban.com/subject/1292589/) - `2021-4-03 02:28:41`
-- 想看[《东京审判》](http://movie.douban.com/subject/1863661/) - `2021-4-03 02:28:08`
-- 看过[《过春天》](http://movie.douban.com/subject/27191431/) - `2021-4-02 16:27:04`
-- 看过[《摇曳露营△ 第二季》](http://movie.douban.com/subject/30358098/) - `2021-4-01 15:33:58`
-- 看过[《佐贺偶像是传奇》](http://movie.douban.com/subject/30267274/) - `2021-4-01 12:56:22`
 
 </td>
 </tr>
