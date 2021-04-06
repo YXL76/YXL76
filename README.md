@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 想看[《哭泣的草原》](http://movie.douban.com/subject/1388180/) - `2021-4-05 19:19:42`
 - 看过[《刺杀》](http://movie.douban.com/subject/34907416/) - `2021-4-04 15:56:24`
 - 在看[《SSSS.电光机王》](http://movie.douban.com/subject/34915462/) - `2021-4-04 13:20:22`
 - 在看[《扰乱 The Princess of Snow and Blood》](http://movie.douban.com/subject/35370656/) - `2021-4-04 13:03:14`
@@ -40,7 +41,6 @@
 - 看过[《疯狂原始人2》](http://movie.douban.com/subject/24298954/) - `2021-4-03 16:15:37`
 - 看过[《疯狂原始人》](http://movie.douban.com/subject/1907966/) - `2021-4-03 12:51:30`
 - 看过[《BLACKPINK：照亮天空》](http://movie.douban.com/subject/35202366/) - `2021-4-03 09:02:20`
-- 看过[《明亮的星》](http://movie.douban.com/subject/2072848/) - `2021-4-03 03:09:48`
 
 </td>
 </tr>
