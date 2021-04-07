@@ -31,16 +31,16 @@
 
 ### 📚 Douban activities
 
+- 看过[《新神榜：哪吒重生》](http://movie.douban.com/subject/34779692/) - `2021-4-06 13:47:31`
+- 在看[《剃须。然后捡到女高中生。》](http://movie.douban.com/subject/34937835/) - `2021-4-06 12:30:44`
+- 在看[《机甲拳击 第二季》](http://movie.douban.com/subject/34893332/) - `2021-4-06 12:13:38`
+- 看过[《SSSS.古立特》](http://movie.douban.com/subject/27080659/) - `2021-4-06 11:14:41`
 - 想看[《哭泣的草原》](http://movie.douban.com/subject/1388180/) - `2021-4-05 19:19:42`
 - 看过[《刺杀》](http://movie.douban.com/subject/34907416/) - `2021-4-04 15:56:24`
 - 在看[《SSSS.电光机王》](http://movie.douban.com/subject/34915462/) - `2021-4-04 13:20:22`
 - 在看[《扰乱 The Princess of Snow and Blood》](http://movie.douban.com/subject/35370656/) - `2021-4-04 13:03:14`
 - 在看[《如果这叫恋爱感觉会很恶心》](http://movie.douban.com/subject/34961657/) - `2021-4-04 05:43:21`
 - 在看[《Vivy -Fluorite Eye’s Song-》](http://movie.douban.com/subject/35332489/) - `2021-4-04 05:14:28`
-- 看过[《堀与宫村》](http://movie.douban.com/subject/35205803/) - `2021-4-03 16:53:16`
-- 看过[《疯狂原始人2》](http://movie.douban.com/subject/24298954/) - `2021-4-03 16:15:37`
-- 看过[《疯狂原始人》](http://movie.douban.com/subject/1907966/) - `2021-4-03 12:51:30`
-- 看过[《BLACKPINK：照亮天空》](http://movie.douban.com/subject/35202366/) - `2021-4-03 09:02:20`
 
 </td>
 </tr>
