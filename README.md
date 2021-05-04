@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 读过[《爱的教育》](https://book.douban.com/subject/1077778/) - `2021-5-03 17:10:40`
+- 想读[《劇作家 坂元裕二》](https://book.douban.com/subject/35178278/) - `2021-5-03 11:39:30`
 - 听过[《We Didn't Start The Fire》](https://music.douban.com/subject/3710374/) - `2021-5-02 03:00:01`
 - 想看[《孤国春秋 第一季》](http://movie.douban.com/subject/25924036/) - `2021-5-01 17:00:35`
 - 看过[《犹大与黑弥赛亚》](http://movie.douban.com/subject/30464264/) - `2021-5-01 12:53:52`
@@ -39,8 +41,6 @@
 - 看过[《黑袍纠察队 第一季》](http://movie.douban.com/subject/3703650/) - `2021-4-30 12:03:36`
 - 看过[《Kosmonaut》](http://movie.douban.com/subject/35184556/) - `2021-4-29 13:07:52`
 - 看过[《武士弥助》](http://movie.douban.com/subject/30373719/) - `2021-4-29 12:41:21`
-- 想看[《义经》](http://movie.douban.com/subject/1763310/) - `2021-4-29 02:22:38`
-- 玩过[《随从大师 Minion Masters》](http://www.douban.com/game/27156838/) - `2021-4-28 12:37:08`
 
 </td>
 </tr>
