@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 在看[《超时空要塞Macross》](http://movie.douban.com/subject/2058467/) - `2021-5-16 14:36:37`
 - 看过[《委内瑞拉往事》](http://movie.douban.com/subject/34909062/) - `2021-5-15 09:14:30`
 - 看过[《巴里·林登》](http://movie.douban.com/subject/1292472/) - `2021-5-15 07:16:51`
 - 用过[《A岛匿名版 - 匿名论坛adnmb (Android)》](http://www.douban.com/app/35462411/) - `2021-5-15 02:40:07`
@@ -40,7 +41,6 @@
 - 用过[《路透 新闻 (Android)》](http://www.douban.com/app/35462402/) - `2021-5-15 02:37:50`
 - 用过[《全球付 Global Cash (Android)》](http://www.douban.com/app/35462401/) - `2021-5-15 02:37:45`
 - 用过[《Microsoft Office：Word、Excel、PowerPoint 等 (Android)》](http://www.douban.com/app/35462400/) - `2021-5-15 02:37:40`
-- 用过[《VooV Meeting - 腾讯会议国际版 (Android)》](http://www.douban.com/app/35462399/) - `2021-5-15 02:37:36`
 
 </td>
 </tr>
