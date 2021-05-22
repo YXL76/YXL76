@@ -6,7 +6,7 @@
 
 ### 🔭 Github stats
 
-![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=28)
+![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&line_height=28&disable_animations=true)
 
 </td>
 
@@ -14,7 +14,7 @@
 
 ### 🌱 Top languages
 
-![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=tokyonight&langs_count=10&hide=HTML,CSS,SCSS)
+![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=prussian&langs_count=8&hide=HTML,CSS,SCSS)
 
 </td>
 </tr>
@@ -23,7 +23,7 @@
 
 ### 📊 Weekly development breakdown
 
-![Wakatime stats](https://github-readme-stats.yxl76.vercel.app/api/wakatime?username=YXL76&layout=compact&theme=tokyonight)
+![Wakatime stats](https://github-readme-stats.yxl76.vercel.app/api/wakatime?username=YXL76&layout=compact&theme=prussian)
 
 
 </td>
@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《辉夜大小姐想让我告白：天才们的恋爱头脑战 OVA》](http://movie.douban.com/subject/35234383/) - `2021-5-22 02:39:11`
 - 想读[《清末立宪史》](https://book.douban.com/subject/10772938/) - `2021-5-21 11:16:09`
 - 在读[《中国古代房内考》](https://book.douban.com/subject/2184895/) - `2021-5-21 09:21:36`
 - 看过[《洛丽塔》](http://movie.douban.com/subject/1296992/) - `2021-5-21 05:51:54`
@@ -40,7 +41,6 @@
 - 想读[《讲谈社·日本的历史套装》](https://book.douban.com/subject/35456932/) - `2021-5-20 07:37:03`
 - 读过[《战争时期日本精神史》](https://book.douban.com/subject/34835561/) - `2021-5-20 04:27:49`
 - 看过[《灵笼 特别篇》](http://movie.douban.com/subject/35467085/) - `2021-5-20 04:19:52`
-- 想看[《圣山》](http://movie.douban.com/subject/1401905/) - `2021-5-19 16:36:10`
 
 </td>
 </tr>
