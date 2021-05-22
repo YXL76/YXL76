@@ -28,24 +28,25 @@ https.get(
     },
   },
   (res) => {
-    res.on("data", (chunk) => {
-      douban += chunk;
-    });
-    res.on("end", () => {
-      xml2js.parseStringPromise(douban).then((result) => {
-        douban = result.rss.channel[0].item.map(({ title, link, pubDate }) => {
-          date = pubDate[0].split(" ");
-          if (title[0].slice(0, 2) === "最近") {
-            title[0] = title[0].slice(2);
-          }
-          return `- ${title[0].slice(0, 2)}[《${title[0].slice(2)}》](${
-            link[0]
-          }) - \`${date[3]}-${mouth[date[2]]}-${date[1]} ${date[4]}\``;
-        });
+    res
+      .on("data", (chunk) => (douban += chunk))
+      .on("end", () => {
+        xml2js.parseStringPromise(douban).then((result) => {
+          douban = result.rss.channel[0].item.map(
+            ({ title, link, pubDate }) => {
+              date = pubDate[0].split(" ");
+              if (title[0].slice(0, 2) === "最近") {
+                title[0] = title[0].slice(2);
+              }
+              return `- ${title[0].slice(0, 2)}[《${title[0].slice(2)}》](${
+                link[0]
+              }) - \`${date[3]}-${mouth[date[2]]}-${date[1]} ${date[4]}\``;
+            }
+          );
 
-        writeFileSync(
-          "./README.md",
-          `## Hi there 👋
+          writeFileSync(
+            "./README.md",
+            `## Hi there 👋
 
 <table>
 <tr>
@@ -53,7 +54,7 @@ https.get(
 
 ### 🔭 Github stats
 
-![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=28)
+![YXL76's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=YXL76&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&line_height=28&disable_animations=true)
 
 </td>
 
@@ -61,7 +62,7 @@ https.get(
 
 ### 🌱 Top languages
 
-![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=tokyonight&langs_count=10&hide=HTML,CSS,SCSS)
+![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=prussian&langs_count=8&hide=HTML,CSS,SCSS)
 
 </td>
 </tr>
@@ -70,7 +71,7 @@ https.get(
 
 ### 📊 Weekly development breakdown
 
-![Wakatime stats](https://github-readme-stats.yxl76.vercel.app/api/wakatime?username=YXL76&layout=compact&theme=tokyonight)
+![Wakatime stats](https://github-readme-stats.yxl76.vercel.app/api/wakatime?username=YXL76&layout=compact&theme=prussian)
 
 
 </td>
@@ -99,8 +100,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 `
-        );
+          );
+        });
       });
-    });
   }
 );
