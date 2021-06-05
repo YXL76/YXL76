@@ -1,5 +1,7 @@
-const https = require("https");
-const xml2js = require("xml2js");
+// @ts-check
+
+const { get } = require("https");
+const { parseStringPromise } = require("xml2js");
 const { writeFileSync } = require("fs");
 
 const mouth = {
@@ -17,36 +19,43 @@ const mouth = {
   Dec: 12,
 };
 
-let douban = "";
+new Promise((resolve, reject) => {
+  let data = "";
 
-https.get(
-  "https://www.douban.com/feed/people/151739065/interests",
-  {
-    headers: {
-      "User-Agent":
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36",
+  get(
+    "https://www.douban.com/feed/people/151739065/interests",
+    {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36",
+      },
     },
-  },
-  (res) => {
-    res
-      .on("data", (chunk) => (douban += chunk))
-      .on("end", () => {
-        xml2js.parseStringPromise(douban).then((result) => {
-          douban = result.rss.channel[0].item.map(
-            ({ title, link, pubDate }) => {
-              date = pubDate[0].split(" ");
-              if (title[0].slice(0, 2) === "最近") {
-                title[0] = title[0].slice(2);
-              }
-              return `- ${title[0].slice(0, 2)}[《${title[0].slice(2)}》](${
-                link[0]
-              }) - \`${date[3]}-${mouth[date[2]]}-${date[1]} ${date[4]}\``;
-            }
-          );
+    (res) =>
+      res
+        .on("data", (chunk) => (data += chunk))
+        .once("end", () => resolve(data))
+  ).once("error", reject);
+})
+  .then((data) => parseStringPromise(data))
+  .then(
+    ({
+      rss: {
+        channel: [{ item }],
+      },
+    }) => {
+      const activities = item.map(
+        ({ title: [title], link: [link], pubDate: [pubDate] }) => {
+          const [d, m, y, c] = pubDate.split(" ").slice(1);
+          if (title.slice(0, 2) === "最近") title = title.slice(2);
+          const action = title.slice(0, 2);
+          const name = title.slice(2);
+          return `- ${action}[《${name}》](${link}) - \`${y}-${mouth[m]}-${d} ${c}\``;
+        }
+      );
 
-          writeFileSync(
-            "./README.md",
-            `## Hi there 👋
+      writeFileSync(
+        "./README.md",
+        `## Hi there 👋
 
 <table>
 <tr>
@@ -79,7 +88,7 @@ https.get(
 
 ### 📚 Douban activities
 
-${douban.join("\n")}
+${activities.join("\n")}
 
 </td>
 </tr>
@@ -100,8 +109,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 `
-          );
-        });
-      });
-  }
-);
+      );
+    }
+  );
