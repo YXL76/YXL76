@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《转生成蜘蛛又怎样！》](http://movie.douban.com/subject/30267273/) - `2021-7-03 13:44:37`
+- 看过[《钱》](http://movie.douban.com/subject/1303536/) - `2021-7-03 13:11:48`
 - 看过[《弱势角色友崎君 OVA2》](http://movie.douban.com/subject/35426258/) - `2021-7-02 14:15:10`
 - 看过[《兄弟连》](http://movie.douban.com/subject/1307847/) - `2021-7-02 03:16:19`
 - 想看[《原始星球》](http://movie.douban.com/subject/1291989/) - `2021-7-02 02:53:59`
@@ -39,8 +41,6 @@
 - 看过[《奇蛋物语 特别篇》](http://movie.douban.com/subject/35421742/) - `2021-6-30 15:09:28`
 - 玩过[《枪火重生 Gunfire Reborn》](http://www.douban.com/game/35089124/) - `2021-6-30 14:29:51`
 - 玩过[《雨中冒险2 Risk of Rain 2》](http://www.douban.com/game/30374897/) - `2021-6-30 14:29:29`
-- 读过[《光纤通信》](https://book.douban.com/subject/6801874/) - `2021-6-30 14:27:05`
-- 想看[《双恋Alternative》](http://movie.douban.com/subject/2046986/) - `2021-6-30 10:14:56`
 
 </td>
 </tr>
