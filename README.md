@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 想读[《苏联真相》](https://book.douban.com/subject/5325494/) - `2021-7-23 01:39:41`
 - 看过[《双峰  第二季》](http://movie.douban.com/subject/3022764/) - `2021-7-22 15:42:36`
 - 想看[《销魂三人组》](http://movie.douban.com/subject/1468034/) - `2021-7-22 14:34:06`
 - 想读[《Perversion of Justice》](https://book.douban.com/subject/35508025/) - `2021-7-21 16:45:29`
@@ -40,7 +41,6 @@
 - 想读[《跨语际实践》](https://book.douban.com/subject/3062072/) - `2021-7-18 01:24:22`
 - 想读[《植物妻子》](https://book.douban.com/subject/25816288/) - `2021-7-17 12:58:16`
 - 想读[《未来学大会》](https://book.douban.com/subject/35330057/) - `2021-7-17 12:18:50`
-- 想看[《含泪活着》](http://movie.douban.com/subject/2342568/) - `2021-7-16 16:21:03`
 
 </td>
 </tr>
