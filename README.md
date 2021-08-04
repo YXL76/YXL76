@@ -31,16 +31,16 @@
 
 ### 📚 Douban activities
 
-- 在看[《魔法纪录：魔法少女小圆外传 第二季》](http://movie.douban.com/subject/35026036/) - `2021-8-01 14:33:57`
-- 想读[《不要因为走得太远而忘记为什么出发》](https://book.douban.com/subject/20453024/) - `2021-8-01 01:06:07`
-- 看过[《怒火·重案》](http://movie.douban.com/subject/30174085/) - `2021-7-30 16:33:08`
-- 想看[《女子警察的逆袭》](http://movie.douban.com/subject/35447242/) - `2021-7-30 01:53:48`
-- 看过[《Front Innocent》](http://movie.douban.com/subject/26421491/) - `2021-7-29 08:41:49`
-- 想看[《马赛克日本》](http://movie.douban.com/subject/25858737/) - `2021-7-29 08:35:07`
-- 看过[《全裸导演 第二季》](http://movie.douban.com/subject/34796281/) - `2021-7-27 15:02:14`
-- 想看[《堕落街 第一季》](http://movie.douban.com/subject/35290459/) - `2021-7-27 14:55:09`
-- 读过[《认识电影：全彩插图第12版》](https://book.douban.com/subject/26848740/) - `2021-7-27 09:22:31`
-- 玩过[《光明记忆 Bright memory》](http://www.douban.com/game/27646991/) - `2021-7-26 11:35:39`
+- 在听[《Very Best of George Benson: The Greatest Hits of All》](https://music.douban.com/subject/1786496/) - `2021-8-03 16:09:18`
+- 在听[《LANY》](https://music.douban.com/subject/26988096/) - `2021-8-03 16:08:54`
+- 听过[《The Doors》](https://music.douban.com/subject/1431902/) - `2021-8-03 16:08:36`
+- 在听[《Bangarang》](https://music.douban.com/subject/10198902/) - `2021-8-03 16:08:20`
+- 在听[《The Search for Everything》](https://music.douban.com/subject/26999693/) - `2021-8-03 16:05:48`
+- 在听[《Wild & Free》](https://music.douban.com/subject/21354307/) - `2021-8-03 16:05:25`
+- 在听[《Dragon Age: Inquisition - The Bard Songs》](https://music.douban.com/subject/26601860/) - `2021-8-03 16:05:01`
+- 听过[《Riser》](https://music.douban.com/subject/25833432/) - `2021-8-03 16:04:26`
+- 听过[《Chapter Two: Red》](https://music.douban.com/subject/27052840/) - `2021-8-03 16:03:52`
+- 听过[《Stand by Me》](https://music.douban.com/subject/1768783/) - `2021-8-03 16:02:29`
 
 </td>
 </tr>
