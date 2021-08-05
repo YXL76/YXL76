@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 想读[《布拉格精神》](https://book.douban.com/subject/26436285/) - `2021-8-05 04:06:30`
 - 看过[《那年1976》](http://movie.douban.com/subject/26970634/) - `2021-8-04 08:53:28`
 - 在听[《American Idiot》](https://music.douban.com/subject/1396380/) - `2021-8-04 04:24:17`
 - 在听[《Dreams Are My Reality》](https://music.douban.com/subject/2760146/) - `2021-8-04 04:20:04`
@@ -40,7 +41,6 @@
 - 在听[《Feyde》](https://music.douban.com/subject/35046940/) - `2021-8-04 04:16:41`
 - 在听[《(What's The Story) Morning Glory?》](https://music.douban.com/subject/1395617/) - `2021-8-04 04:15:14`
 - 在听[《Amnesiac》](https://music.douban.com/subject/1394562/) - `2021-8-04 04:15:07`
-- 听过[《Midnight Lady》](https://music.douban.com/subject/20272474/) - `2021-8-04 04:14:36`
 
 </td>
 </tr>
