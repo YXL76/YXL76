@@ -31,16 +31,16 @@
 
 ### 📚 Douban activities
 
-- 在听[《Very Best of George Benson: The Greatest Hits of All》](https://music.douban.com/subject/1786496/) - `2021-8-03 16:09:18`
-- 在听[《LANY》](https://music.douban.com/subject/26988096/) - `2021-8-03 16:08:54`
-- 听过[《The Doors》](https://music.douban.com/subject/1431902/) - `2021-8-03 16:08:36`
-- 在听[《Bangarang》](https://music.douban.com/subject/10198902/) - `2021-8-03 16:08:20`
-- 在听[《The Search for Everything》](https://music.douban.com/subject/26999693/) - `2021-8-03 16:05:48`
-- 在听[《Wild & Free》](https://music.douban.com/subject/21354307/) - `2021-8-03 16:05:25`
-- 在听[《Dragon Age: Inquisition - The Bard Songs》](https://music.douban.com/subject/26601860/) - `2021-8-03 16:05:01`
-- 听过[《Riser》](https://music.douban.com/subject/25833432/) - `2021-8-03 16:04:26`
-- 听过[《Chapter Two: Red》](https://music.douban.com/subject/27052840/) - `2021-8-03 16:03:52`
-- 听过[《Stand by Me》](https://music.douban.com/subject/1768783/) - `2021-8-03 16:02:29`
+- 看过[《那年1976》](http://movie.douban.com/subject/26970634/) - `2021-8-04 08:53:28`
+- 在听[《American Idiot》](https://music.douban.com/subject/1396380/) - `2021-8-04 04:24:17`
+- 在听[《Dreams Are My Reality》](https://music.douban.com/subject/2760146/) - `2021-8-04 04:20:04`
+- 听过[《Set for Life》](https://music.douban.com/subject/34975151/) - `2021-8-04 04:19:42`
+- 在听[《Attack on Titan: Epic Collection》](https://music.douban.com/subject/35376867/) - `2021-8-04 04:17:42`
+- 在听[《Forever》](https://music.douban.com/subject/26169875/) - `2021-8-04 04:17:25`
+- 在听[《Feyde》](https://music.douban.com/subject/35046940/) - `2021-8-04 04:16:41`
+- 在听[《(What's The Story) Morning Glory?》](https://music.douban.com/subject/1395617/) - `2021-8-04 04:15:14`
+- 在听[《Amnesiac》](https://music.douban.com/subject/1394562/) - `2021-8-04 04:15:07`
+- 听过[《Midnight Lady》](https://music.douban.com/subject/20272474/) - `2021-8-04 04:14:36`
 
 </td>
 </tr>
