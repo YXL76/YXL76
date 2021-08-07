@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 想读[《Letters to a Young Gymnast》](https://book.douban.com/subject/6875817/) - `2021-8-06 10:53:32`
+- 看过[《世纪疑案：恐怖伊凡》](http://movie.douban.com/subject/34869343/) - `2021-8-06 07:56:55`
 - 想读[《布拉格精神》](https://book.douban.com/subject/26436285/) - `2021-8-05 04:06:30`
 - 看过[《那年1976》](http://movie.douban.com/subject/26970634/) - `2021-8-04 08:53:28`
 - 在听[《American Idiot》](https://music.douban.com/subject/1396380/) - `2021-8-04 04:24:17`
@@ -39,8 +41,6 @@
 - 在听[《Attack on Titan: Epic Collection》](https://music.douban.com/subject/35376867/) - `2021-8-04 04:17:42`
 - 在听[《Forever》](https://music.douban.com/subject/26169875/) - `2021-8-04 04:17:25`
 - 在听[《Feyde》](https://music.douban.com/subject/35046940/) - `2021-8-04 04:16:41`
-- 在听[《(What's The Story) Morning Glory?》](https://music.douban.com/subject/1395617/) - `2021-8-04 04:15:14`
-- 在听[《Amnesiac》](https://music.douban.com/subject/1394562/) - `2021-8-04 04:15:07`
 
 </td>
 </tr>
