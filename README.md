@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 想看[《银发的阿基多》](http://movie.douban.com/subject/1448722/) - `2021-8-07 10:28:52`
 - 想读[《Letters to a Young Gymnast》](https://book.douban.com/subject/6875817/) - `2021-8-06 10:53:32`
 - 看过[《世纪疑案：恐怖伊凡》](http://movie.douban.com/subject/34869343/) - `2021-8-06 07:56:55`
 - 想读[《布拉格精神》](https://book.douban.com/subject/26436285/) - `2021-8-05 04:06:30`
@@ -40,7 +41,6 @@
 - 听过[《Set for Life》](https://music.douban.com/subject/34975151/) - `2021-8-04 04:19:42`
 - 在听[《Attack on Titan: Epic Collection》](https://music.douban.com/subject/35376867/) - `2021-8-04 04:17:42`
 - 在听[《Forever》](https://music.douban.com/subject/26169875/) - `2021-8-04 04:17:25`
-- 在听[《Feyde》](https://music.douban.com/subject/35046940/) - `2021-8-04 04:16:41`
 
 </td>
 </tr>
