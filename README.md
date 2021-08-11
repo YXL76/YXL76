@@ -31,16 +31,16 @@
 
 ### 📚 Douban activities
 
+- 想读[《大教堂》](https://book.douban.com/subject/35023455/) - `2021-8-10 16:19:13`
+- 想看[《无言的山丘》](http://movie.douban.com/subject/1298944/) - `2021-8-10 15:40:40`
+- 想读[《罗马的命运》](https://book.douban.com/subject/34432189/) - `2021-8-10 15:32:49`
+- 想读[《萌芽》](https://book.douban.com/subject/2050778/) - `2021-8-10 15:09:01`
+- 看过[《庆余年 第一季》](http://movie.douban.com/subject/25853071/) - `2021-8-10 10:38:38`
 - 想看[《稻草狗》](http://movie.douban.com/subject/1293028/) - `2021-8-08 08:51:03`
 - 想看[《银发的阿基多》](http://movie.douban.com/subject/1448722/) - `2021-8-07 10:28:52`
 - 想读[《Letters to a Young Gymnast》](https://book.douban.com/subject/6875817/) - `2021-8-06 10:53:32`
 - 看过[《世纪疑案：恐怖伊凡》](http://movie.douban.com/subject/34869343/) - `2021-8-06 07:56:55`
 - 想读[《布拉格精神》](https://book.douban.com/subject/26436285/) - `2021-8-05 04:06:30`
-- 看过[《那年1976》](http://movie.douban.com/subject/26970634/) - `2021-8-04 08:53:28`
-- 在听[《American Idiot》](https://music.douban.com/subject/1396380/) - `2021-8-04 04:24:17`
-- 在听[《Dreams Are My Reality》](https://music.douban.com/subject/2760146/) - `2021-8-04 04:20:04`
-- 听过[《Set for Life》](https://music.douban.com/subject/34975151/) - `2021-8-04 04:19:42`
-- 在听[《Attack on Titan: Epic Collection》](https://music.douban.com/subject/35376867/) - `2021-8-04 04:17:42`
 
 </td>
 </tr>
