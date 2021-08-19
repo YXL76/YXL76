@@ -31,6 +31,9 @@
 
 ### 📚 Douban activities
 
+- 想看[《LoveLive! SuperStar!!》](http://movie.douban.com/subject/35073328/) - `2021-8-18 11:31:37`
+- 想读[《走出白色恐怖》](https://book.douban.com/subject/10583117/) - `2021-8-18 04:49:40`
+- 看过[《总之就是非常可爱 OVA》](http://movie.douban.com/subject/35296066/) - `2021-8-18 02:54:09`
 - 想看[《虐杀器官》](http://movie.douban.com/subject/25850715/) - `2021-8-17 16:05:22`
 - 想看[《法官朱迪 第一季》](http://movie.douban.com/subject/3112224/) - `2021-8-17 13:59:39`
 - 看过[《奇巧计程车》](http://movie.douban.com/subject/35332568/) - `2021-8-17 11:50:00`
@@ -38,9 +41,6 @@
 - 在看[《平稳世代的韦驮天们》](http://movie.douban.com/subject/35177664/) - `2021-8-16 12:13:26`
 - 读过[《Learn Python 3 the Hard Way》](https://book.douban.com/subject/27094555/) - `2021-8-16 05:27:49`
 - 读过[《Learn C the Hard Way》](https://book.douban.com/subject/19983642/) - `2021-8-16 05:24:43`
-- 想读[《靖国问题》](https://book.douban.com/subject/2216345/) - `2021-8-15 16:31:45`
-- 想看[《东京日和》](http://movie.douban.com/subject/1299607/) - `2021-8-14 09:29:50`
-- 想看[《盛夏未来》](http://movie.douban.com/subject/35158124/) - `2021-8-13 11:17:17`
 
 </td>
 </tr>
