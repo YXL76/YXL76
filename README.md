@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 想看[《偷窥者》](http://movie.douban.com/subject/34981939/) - `2021-9-10 09:23:31`
 - 在看[《十二国记》](http://movie.douban.com/subject/1394510/) - `2021-9-09 11:47:21`
 - 想读[《鄙视》](https://book.douban.com/subject/35482123/) - `2021-9-09 10:12:56`
 - 想读[《A Biography of the Pixel》](https://book.douban.com/subject/35561048/) - `2021-9-09 05:26:51`
@@ -40,7 +41,6 @@
 - 想看[《魍魉战记-摩陀罗》](http://movie.douban.com/subject/3784474/) - `2021-9-07 10:45:14`
 - 读过[《娱乐至死》](https://book.douban.com/subject/26319730/) - `2021-9-07 04:56:07`
 - 想读[《东京绮梦》](https://book.douban.com/subject/35573603/) - `2021-9-07 01:23:06`
-- 想看[《摩登情爱 第一季》](http://movie.douban.com/subject/30385409/) - `2021-9-06 15:44:05`
 
 </td>
 </tr>
