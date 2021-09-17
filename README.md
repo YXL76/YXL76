@@ -31,6 +31,9 @@
 
 ### 📚 Douban activities
 
+- 读过[《Learn Java in One Day and Learn It Well》](https://book.douban.com/subject/35599914/) - `2021-9-16 17:01:14`
+- 在看[《平家物语》](http://movie.douban.com/subject/35590029/) - `2021-9-16 15:15:29`
+- 看过[《女神宿舍的管理员。》](http://movie.douban.com/subject/35083480/) - `2021-9-16 14:56:19`
 - 看过[《鲁迅》](http://movie.douban.com/subject/1459399/) - `2021-9-15 14:02:47`
 - 在读[《Computer Systems: A Programmer's Perspective (3rd Edition)》](https://book.douban.com/subject/26344642/) - `2021-9-13 15:17:19`
 - 看过[《埃及艳后》](http://movie.douban.com/subject/1292550/) - `2021-9-13 07:15:29`
@@ -38,9 +41,6 @@
 - 想看[《上班族妈妈 第一季》](http://movie.douban.com/subject/26958511/) - `2021-9-12 09:13:20`
 - 看过[《十二国记》](http://movie.douban.com/subject/1394510/) - `2021-9-11 15:14:55`
 - 想看[《鸡蛋》](http://movie.douban.com/subject/3099327/) - `2021-9-11 09:13:17`
-- 想看[《非正式会谈 第一季》](http://movie.douban.com/subject/26378745/) - `2021-9-11 08:36:08`
-- 想看[《偷窥者》](http://movie.douban.com/subject/34981939/) - `2021-9-10 09:23:31`
-- 想读[《鄙视》](https://book.douban.com/subject/35482123/) - `2021-9-09 10:12:56`
 
 </td>
 </tr>
