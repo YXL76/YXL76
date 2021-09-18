@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《黑怕女孩》](http://movie.douban.com/subject/35322686/) - `2021-9-17 12:33:56`
+- 想读[《摄影师》](https://book.douban.com/subject/26870760/) - `2021-9-17 09:27:18`
 - 读过[《Learn Java in One Day and Learn It Well》](https://book.douban.com/subject/35599914/) - `2021-9-16 17:01:14`
 - 在看[《平家物语》](http://movie.douban.com/subject/35590029/) - `2021-9-16 15:15:29`
 - 看过[《女神宿舍的管理员。》](http://movie.douban.com/subject/35083480/) - `2021-9-16 14:56:19`
@@ -39,8 +41,6 @@
 - 看过[《埃及艳后》](http://movie.douban.com/subject/1292550/) - `2021-9-13 07:15:29`
 - 读过[《Design Patterns》](https://book.douban.com/subject/1436745/) - `2021-9-12 12:55:45`
 - 想看[《上班族妈妈 第一季》](http://movie.douban.com/subject/26958511/) - `2021-9-12 09:13:20`
-- 看过[《十二国记》](http://movie.douban.com/subject/1394510/) - `2021-9-11 15:14:55`
-- 想看[《鸡蛋》](http://movie.douban.com/subject/3099327/) - `2021-9-11 09:13:17`
 
 </td>
 </tr>
