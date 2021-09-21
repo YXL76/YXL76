@@ -31,6 +31,9 @@
 
 ### 📚 Douban activities
 
+- 看过[《是，大臣  第一季》](http://movie.douban.com/subject/4937405/) - `2021-9-20 17:13:55`
+- 读过[《Grokking Algorithms》](https://book.douban.com/subject/26366784/) - `2021-9-20 15:17:47`
+- 想看[《坠雪少女》](http://movie.douban.com/subject/30460343/) - `2021-9-20 10:43:21`
 - 想看[《逃亡》](http://movie.douban.com/subject/30403645/) - `2021-9-19 16:47:45`
 - 看过[《女友成堆》](http://movie.douban.com/subject/35256239/) - `2021-9-18 05:49:03`
 - 看过[《黑怕女孩》](http://movie.douban.com/subject/35322686/) - `2021-9-17 12:33:56`
@@ -38,9 +41,6 @@
 - 读过[《Learn Java in One Day and Learn It Well》](https://book.douban.com/subject/35599914/) - `2021-9-16 17:01:14`
 - 在看[《平家物语》](http://movie.douban.com/subject/35590029/) - `2021-9-16 15:15:29`
 - 看过[《女神宿舍的管理员。》](http://movie.douban.com/subject/35083480/) - `2021-9-16 14:56:19`
-- 看过[《鲁迅》](http://movie.douban.com/subject/1459399/) - `2021-9-15 14:02:47`
-- 在读[《Computer Systems: A Programmer's Perspective (3rd Edition)》](https://book.douban.com/subject/26344642/) - `2021-9-13 15:17:19`
-- 看过[《埃及艳后》](http://movie.douban.com/subject/1292550/) - `2021-9-13 07:15:29`
 
 </td>
 </tr>
