@@ -31,6 +31,9 @@
 
 ### 📚 Douban activities
 
+- 想读[《絆》](https://book.douban.com/subject/10540690/) - `2021-9-21 17:52:05`
+- 看过[《关于我转生变成史莱姆这档事 第二季 Part.2》](http://movie.douban.com/subject/35044518/) - `2021-9-21 17:31:46`
+- 想看[《以柔克刚》](http://movie.douban.com/subject/5969344/) - `2021-9-21 10:29:08`
 - 看过[《是，大臣  第一季》](http://movie.douban.com/subject/4937405/) - `2021-9-20 17:13:55`
 - 读过[《Grokking Algorithms》](https://book.douban.com/subject/26366784/) - `2021-9-20 15:17:47`
 - 想看[《坠雪少女》](http://movie.douban.com/subject/30460343/) - `2021-9-20 10:43:21`
@@ -38,9 +41,6 @@
 - 看过[《女友成堆》](http://movie.douban.com/subject/35256239/) - `2021-9-18 05:49:03`
 - 看过[《黑怕女孩》](http://movie.douban.com/subject/35322686/) - `2021-9-17 12:33:56`
 - 想读[《摄影师》](https://book.douban.com/subject/26870760/) - `2021-9-17 09:27:18`
-- 读过[《Learn Java in One Day and Learn It Well》](https://book.douban.com/subject/35599914/) - `2021-9-16 17:01:14`
-- 在看[《平家物语》](http://movie.douban.com/subject/35590029/) - `2021-9-16 15:15:29`
-- 看过[《女神宿舍的管理员。》](http://movie.douban.com/subject/35083480/) - `2021-9-16 14:56:19`
 
 </td>
 </tr>
