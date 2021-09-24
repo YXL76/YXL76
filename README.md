@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《坠雪少女》](http://movie.douban.com/subject/30460343/) - `2021-9-23 14:23:29`
+- 看过[《小林家的龙女仆 第二季》](http://movie.douban.com/subject/30459061/) - `2021-9-23 11:56:11`
 - 想读[《The Contrarian》](https://book.douban.com/subject/35508024/) - `2021-9-22 11:42:17`
 - 想读[《塞纳河畔》](https://book.douban.com/subject/26700348/) - `2021-9-22 10:29:42`
 - 想读[《絆》](https://book.douban.com/subject/10540690/) - `2021-9-21 17:52:05`
@@ -38,9 +40,7 @@
 - 想看[《以柔克刚》](http://movie.douban.com/subject/5969344/) - `2021-9-21 10:29:08`
 - 看过[《是，大臣  第一季》](http://movie.douban.com/subject/4937405/) - `2021-9-20 17:13:55`
 - 读过[《Grokking Algorithms》](https://book.douban.com/subject/26366784/) - `2021-9-20 15:17:47`
-- 想看[《坠雪少女》](http://movie.douban.com/subject/30460343/) - `2021-9-20 10:43:21`
 - 想看[《逃亡》](http://movie.douban.com/subject/30403645/) - `2021-9-19 16:47:45`
-- 看过[《女友成堆》](http://movie.douban.com/subject/35256239/) - `2021-9-18 05:49:03`
 
 </td>
 </tr>
