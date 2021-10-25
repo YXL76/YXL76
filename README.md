@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 玩过[《王国英雄 Hero of the Kingdom》](http://www.douban.com/game/35011451/) - `2021-10-24 18:30:13`
+- 读过[《Learning React 2nd ed.》](https://book.douban.com/subject/34887887/) - `2021-10-24 08:25:19`
 - 看过[《关于莉莉周的一切》](http://movie.douban.com/subject/1292219/) - `2021-10-23 14:00:07`
 - 在看[《键的嘉年华》](http://movie.douban.com/subject/35438216/) - `2021-10-23 08:59:44`
 - 看过[《是，首相 第一季》](http://movie.douban.com/subject/1441948/) - `2021-10-22 16:07:48`
@@ -39,8 +41,6 @@
 - 看过[《艺海风光二：话剧团》](http://movie.douban.com/subject/2136261/) - `2021-10-21 14:24:05`
 - 看过[《艺海风光一：电影城》](http://movie.douban.com/subject/2136260/) - `2021-10-21 14:23:00`
 - 看过[《关连长》](http://movie.douban.com/subject/3008469/) - `2021-10-20 15:13:43`
-- 想读[《大地之上》](https://book.douban.com/subject/35268657/) - `2021-10-20 08:34:48`
-- 看过[《LoveLive! Superstar!!》](http://movie.douban.com/subject/35073328/) - `2021-10-19 15:59:56`
 
 </td>
 </tr>
