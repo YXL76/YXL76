@@ -21,15 +21,14 @@ const mouth = {
 
 new Promise((resolve, reject) => {
   let data = "";
+  const headers = {
+    "User-Agent":
+      "Mozilla/5.0 (X11; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0",
+  };
 
   get(
     "https://www.douban.com/feed/people/151739065/interests",
-    {
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36",
-      },
-    },
+    { headers },
     (res) =>
       res
         .on("data", (chunk) => (data += chunk))
@@ -37,25 +36,21 @@ new Promise((resolve, reject) => {
   ).once("error", reject);
 })
   .then((data) => parseStringPromise(data))
-  .then(
-    ({
-      rss: {
-        channel: [{ item }],
-      },
-    }) => {
-      const activities = item.map(
-        ({ title: [title], link: [link], pubDate: [pubDate] }) => {
-          const [d, m, y, c] = pubDate.split(" ").slice(1);
-          if (title.slice(0, 2) === "最近") title = title.slice(2);
-          const action = title.slice(0, 2);
-          const name = title.slice(2);
-          return `- ${action}[《${name}》](${link}) - \`${y}-${mouth[m]}-${d} ${c}\``;
-        }
-      );
+  .then(({ rss }) => Promise.resolve(rss.channel[0].item))
+  .then((item) => {
+    const activities = item.map(
+      ({ title: [title], link: [link], pubDate: [pubDate] }) => {
+        const [d, m, y] = pubDate.split(" ").slice(1, 4);
+        if (title.slice(0, 2) === "最近") title = title.slice(2);
+        const action = title.slice(0, 2);
+        const name = title.slice(2);
+        return `- ${action}[《${name}》](${link}) - \`${y}-${mouth[m]}-${d}\``;
+      }
+    );
 
-      writeFileSync(
-        "./README.md",
-        `## Hi there 👋
+    writeFileSync(
+      "./README.md",
+      `## Hi there 👋
 
 <table>
 <tr>
@@ -109,6 +104,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 `
-      );
-    }
-  );
+    );
+  });
