@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 玩过[《忍者印记 Mark of the Ninja》](http://www.douban.com/game/23079280/) - `2021-10-29`
 - 在读[《奥威尔杂文全集》](https://book.douban.com/subject/30252635/) - `2021-10-28`
 - 看过[《人到中年》](http://movie.douban.com/subject/1299884/) - `2021-10-27`
 - 看过[《罪恶王冠》](http://movie.douban.com/subject/6518736/) - `2021-10-26`
@@ -40,7 +41,6 @@
 - 看过[《关于莉莉周的一切》](http://movie.douban.com/subject/1292219/) - `2021-10-23`
 - 在看[《键的嘉年华》](http://movie.douban.com/subject/35438216/) - `2021-10-23`
 - 看过[《是，首相 第一季》](http://movie.douban.com/subject/1441948/) - `2021-10-22`
-- 想读[《恋爱的犀牛》](https://book.douban.com/subject/27103796/) - `2021-10-22`
 
 </td>
 </tr>
