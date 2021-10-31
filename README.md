@@ -31,6 +31,9 @@
 
 ### 📚 Douban activities
 
+- 看过[《花束般的恋爱》](http://movie.douban.com/subject/34874432/) - `2021-10-30`
+- 想看[《兹山鱼谱》](http://movie.douban.com/subject/30409439/) - `2021-10-30`
+- 想读[《无人知晓的真由子》](https://book.douban.com/subject/35316125/) - `2021-10-30`
 - 玩过[《忍者印记 Mark of the Ninja》](http://www.douban.com/game/23079280/) - `2021-10-29`
 - 在读[《奥威尔杂文全集》](https://book.douban.com/subject/30252635/) - `2021-10-28`
 - 看过[《人到中年》](http://movie.douban.com/subject/1299884/) - `2021-10-27`
@@ -38,9 +41,6 @@
 - 读过[《Web安全防护指南(基础篇)》](https://book.douban.com/subject/30352827/) - `2021-10-25`
 - 玩过[《王国英雄 Hero of the Kingdom》](http://www.douban.com/game/35011451/) - `2021-10-24`
 - 读过[《Learning React 2nd ed.》](https://book.douban.com/subject/34887887/) - `2021-10-24`
-- 看过[《关于莉莉周的一切》](http://movie.douban.com/subject/1292219/) - `2021-10-23`
-- 在看[《键的嘉年华》](http://movie.douban.com/subject/35438216/) - `2021-10-23`
-- 看过[《是，首相 第一季》](http://movie.douban.com/subject/1441948/) - `2021-10-22`
 
 </td>
 </tr>
