@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 想看[《邮缘》](http://movie.douban.com/subject/1937844/) - `2021-11-02`
 - 看过[《跳》](http://movie.douban.com/subject/1419482/) - `2021-10-31`
 - 看过[《花束般的恋爱》](http://movie.douban.com/subject/34874432/) - `2021-10-30`
 - 想看[《兹山鱼谱》](http://movie.douban.com/subject/30409439/) - `2021-10-30`
@@ -40,7 +41,6 @@
 - 看过[《人到中年》](http://movie.douban.com/subject/1299884/) - `2021-10-27`
 - 看过[《罪恶王冠》](http://movie.douban.com/subject/6518736/) - `2021-10-26`
 - 读过[《Web安全防护指南(基础篇)》](https://book.douban.com/subject/30352827/) - `2021-10-25`
-- 玩过[《王国英雄 Hero of the Kingdom》](http://www.douban.com/game/35011451/) - `2021-10-24`
 
 </td>
 </tr>
