@@ -31,6 +31,9 @@
 
 ### 📚 Douban activities
 
+- 想看[《湘女萧萧》](http://movie.douban.com/subject/1434275/) - `2021-11-03`
+- 看过[《良家妇女》](http://movie.douban.com/subject/1304379/) - `2021-11-03`
+- 读过[《Programming Rust, 2nd Edition》](https://book.douban.com/subject/34973905/) - `2021-11-03`
 - 想看[《邮缘》](http://movie.douban.com/subject/1937844/) - `2021-11-02`
 - 看过[《跳》](http://movie.douban.com/subject/1419482/) - `2021-10-31`
 - 看过[《花束般的恋爱》](http://movie.douban.com/subject/34874432/) - `2021-10-30`
@@ -38,9 +41,6 @@
 - 想读[《无人知晓的真由子》](https://book.douban.com/subject/35316125/) - `2021-10-30`
 - 玩过[《忍者印记 Mark of the Ninja》](http://www.douban.com/game/23079280/) - `2021-10-29`
 - 在读[《奥威尔杂文全集》](https://book.douban.com/subject/30252635/) - `2021-10-28`
-- 看过[《人到中年》](http://movie.douban.com/subject/1299884/) - `2021-10-27`
-- 看过[《罪恶王冠》](http://movie.douban.com/subject/6518736/) - `2021-10-26`
-- 读过[《Web安全防护指南(基础篇)》](https://book.douban.com/subject/30352827/) - `2021-10-25`
 
 </td>
 </tr>
