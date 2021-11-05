@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《是，首相  第二季》](http://movie.douban.com/subject/5359940/) - `2021-11-04`
+- 想读[《施剑翘复仇案》](https://book.douban.com/subject/35603043/) - `2021-11-04`
 - 想看[《湘女萧萧》](http://movie.douban.com/subject/1434275/) - `2021-11-03`
 - 看过[《良家妇女》](http://movie.douban.com/subject/1304379/) - `2021-11-03`
 - 读过[《Programming Rust, 2nd Edition》](https://book.douban.com/subject/34973905/) - `2021-11-03`
@@ -39,8 +41,6 @@
 - 看过[《花束般的恋爱》](http://movie.douban.com/subject/34874432/) - `2021-10-30`
 - 想看[《兹山鱼谱》](http://movie.douban.com/subject/30409439/) - `2021-10-30`
 - 想读[《无人知晓的真由子》](https://book.douban.com/subject/35316125/) - `2021-10-30`
-- 玩过[《忍者印记 Mark of the Ninja》](http://www.douban.com/game/23079280/) - `2021-10-29`
-- 在读[《奥威尔杂文全集》](https://book.douban.com/subject/30252635/) - `2021-10-28`
 
 </td>
 </tr>
