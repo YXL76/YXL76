@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 想读[《李淼罪案故事：如坠深渊》](https://book.douban.com/subject/35523109/) - `2021-11-07`
 - 想看[《梅艳芳》](http://movie.douban.com/subject/30176790/) - `2021-11-06`
 - 看过[《小花》](http://movie.douban.com/subject/1309226/) - `2021-11-05`
 - 看过[《是，首相  第二季》](http://movie.douban.com/subject/5359940/) - `2021-11-04`
@@ -40,7 +41,6 @@
 - 读过[《Programming Rust, 2nd Edition》](https://book.douban.com/subject/34973905/) - `2021-11-03`
 - 想看[《邮缘》](http://movie.douban.com/subject/1937844/) - `2021-11-02`
 - 看过[《跳》](http://movie.douban.com/subject/1419482/) - `2021-10-31`
-- 看过[《花束般的恋爱》](http://movie.douban.com/subject/34874432/) - `2021-10-30`
 
 </td>
 </tr>
