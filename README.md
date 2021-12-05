@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《大雄兔》](http://movie.douban.com/subject/3151410/) - `2021-12-04`
+- 看过[《随心所欲》](http://movie.douban.com/subject/1296757/) - `2021-12-04`
 - 看过[《JOJO的奇妙冒险 石之海》](http://movie.douban.com/subject/34605404/) - `2021-12-02`
 - 读过[《WebAssembly标准入门》](https://book.douban.com/subject/30396640/) - `2021-12-02`
 - 读过[《垃圾回收的算法与实现》](https://book.douban.com/subject/26821357/) - `2021-12-02`
@@ -39,8 +41,6 @@
 - 看过[《黄飞鸿》](http://movie.douban.com/subject/1298443/) - `2021-11-30`
 - 玩过[《看火人 Firewatch》](http://www.douban.com/game/26308123/) - `2021-11-29`
 - 读过[《艾希曼在耶路撒冷》](https://book.douban.com/subject/26834183/) - `2021-11-29`
-- 读过[《奔跑吧 Linux内核 入门篇（第2版）》](https://book.douban.com/subject/35380307/) - `2021-11-29`
-- 看过[《毒液2》](http://movie.douban.com/subject/30382416/) - `2021-11-28`
 
 </td>
 </tr>
