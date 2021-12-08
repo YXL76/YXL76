@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《在这世界的角落》](http://movie.douban.com/subject/11611021/) - `2021-12-07`
 - 看过[《圣母》](http://movie.douban.com/subject/26933588/) - `2021-12-05`
 - 看过[《大雄兔》](http://movie.douban.com/subject/3151410/) - `2021-12-04`
 - 看过[《随心所欲》](http://movie.douban.com/subject/1296757/) - `2021-12-04`
@@ -40,7 +41,6 @@
 - 看过[《乌鸦与麻雀》](http://movie.douban.com/subject/1424627/) - `2021-12-01`
 - 看过[《鱿鱼游戏》](http://movie.douban.com/subject/34812928/) - `2021-11-30`
 - 看过[《黄飞鸿》](http://movie.douban.com/subject/1298443/) - `2021-11-30`
-- 玩过[《看火人 Firewatch》](http://www.douban.com/game/26308123/) - `2021-11-29`
 
 </td>
 </tr>
