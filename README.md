@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 读过[《深入浅出WebAssembly》](https://book.douban.com/subject/30368088/) - `2021-12-11`
 - 看过[《一人之下 第四季》](http://movie.douban.com/subject/35169989/) - `2021-12-10`
 - 看过[《一人之下 第三季》](http://movie.douban.com/subject/34456079/) - `2021-12-10`
 - 读过[《千年帝国史》](https://book.douban.com/subject/33436176/) - `2021-12-10`
@@ -40,7 +41,6 @@
 - 看过[《渡江侦察记》](http://movie.douban.com/subject/1482707/) - `2021-12-08`
 - 看过[《在这世界的角落》](http://movie.douban.com/subject/11611021/) - `2021-12-07`
 - 看过[《圣母》](http://movie.douban.com/subject/26933588/) - `2021-12-05`
-- 看过[《大雄兔》](http://movie.douban.com/subject/3151410/) - `2021-12-04`
 
 </td>
 </tr>
