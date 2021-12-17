@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《早春二月》](http://movie.douban.com/subject/1401269/) - `2021-12-16`
+- 读过[《世界史的诞生》](https://book.douban.com/subject/26712178/) - `2021-12-16`
 - 看过[《家》](http://movie.douban.com/subject/1308211/) - `2021-12-15`
 - 看过[《雄狮少年》](http://movie.douban.com/subject/35144311/) - `2021-12-15`
 - 读过[《世界帝国史》](https://book.douban.com/subject/27101994/) - `2021-12-14`
@@ -39,8 +41,6 @@
 - 读过[《深入浅出WebAssembly》](https://book.douban.com/subject/30368088/) - `2021-12-11`
 - 看过[《一人之下 第四季》](http://movie.douban.com/subject/35169989/) - `2021-12-10`
 - 看过[《一人之下 第三季》](http://movie.douban.com/subject/34456079/) - `2021-12-10`
-- 读过[《千年帝国史》](https://book.douban.com/subject/33436176/) - `2021-12-10`
-- 读过[《智识分子》](https://book.douban.com/subject/26692468/) - `2021-12-09`
 
 </td>
 </tr>
