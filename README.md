@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《巫山云雨》](http://movie.douban.com/subject/1303671/) - `2021-12-17`
+- 读过[《厌女》](https://book.douban.com/subject/25836270/) - `2021-12-17`
 - 看过[《早春二月》](http://movie.douban.com/subject/1401269/) - `2021-12-16`
 - 读过[《世界史的诞生》](https://book.douban.com/subject/26712178/) - `2021-12-16`
 - 看过[《家》](http://movie.douban.com/subject/1308211/) - `2021-12-15`
@@ -39,8 +41,6 @@
 - 读过[《华氏451》](https://book.douban.com/subject/27077129/) - `2021-12-13`
 - 看过[《英雄联盟：双城之战 第一季》](http://movie.douban.com/subject/34867871/) - `2021-12-13`
 - 读过[《深入浅出WebAssembly》](https://book.douban.com/subject/30368088/) - `2021-12-11`
-- 看过[《一人之下 第四季》](http://movie.douban.com/subject/35169989/) - `2021-12-10`
-- 看过[《一人之下 第三季》](http://movie.douban.com/subject/34456079/) - `2021-12-10`
 
 </td>
 </tr>
