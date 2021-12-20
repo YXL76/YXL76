@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 读过[《蒙古帝国的兴亡（上下）》](https://book.douban.com/subject/26585046/) - `2021-12-19`
 - 看过[《巫山云雨》](http://movie.douban.com/subject/1303671/) - `2021-12-17`
 - 读过[《厌女》](https://book.douban.com/subject/25836270/) - `2021-12-17`
 - 看过[《早春二月》](http://movie.douban.com/subject/1401269/) - `2021-12-16`
@@ -40,7 +41,6 @@
 - 读过[《世界帝国史》](https://book.douban.com/subject/27101994/) - `2021-12-14`
 - 读过[《华氏451》](https://book.douban.com/subject/27077129/) - `2021-12-13`
 - 看过[《英雄联盟：双城之战 第一季》](http://movie.douban.com/subject/34867871/) - `2021-12-13`
-- 读过[《深入浅出WebAssembly》](https://book.douban.com/subject/30368088/) - `2021-12-11`
 
 </td>
 </tr>
