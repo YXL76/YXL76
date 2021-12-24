@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《阿Q正传》](http://movie.douban.com/subject/1306506/) - `2021-12-23`
+- 看过[《Muv-Luv Alternative》](http://movie.douban.com/subject/35233901/) - `2021-12-23`
 - 看过[《黑客帝国：矩阵重启》](http://movie.douban.com/subject/34801038/) - `2021-12-22`
 - 读过[《中国独立电影访谈录》](https://book.douban.com/subject/30229539/) - `2021-12-22`
 - 读过[《毁灭与重生》](https://book.douban.com/subject/35338341/) - `2021-12-22`
@@ -39,8 +41,6 @@
 - 看过[《贾希大人不气馁》](http://movie.douban.com/subject/35410438/) - `2021-12-21`
 - 看过[《三峡好人》](http://movie.douban.com/subject/1872133/) - `2021-12-20`
 - 读过[《女神记》](https://book.douban.com/subject/34996391/) - `2021-12-20`
-- 看过[《装甲骑兵》](http://movie.douban.com/subject/3221036/) - `2021-12-20`
-- 读过[《蒙古帝国的兴亡（上下）》](https://book.douban.com/subject/26585046/) - `2021-12-19`
 
 </td>
 </tr>
