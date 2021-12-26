@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《平家物语》](http://movie.douban.com/subject/35590029/) - `2021-12-25`
+- 读过[《各国兴亡小史》](https://book.douban.com/subject/26842442/) - `2021-12-25`
 - 看过[《阿Q正传》](http://movie.douban.com/subject/1306506/) - `2021-12-23`
 - 看过[《Muv-Luv Alternative》](http://movie.douban.com/subject/35233901/) - `2021-12-23`
 - 看过[《黑客帝国：矩阵重启》](http://movie.douban.com/subject/34801038/) - `2021-12-22`
@@ -39,8 +41,6 @@
 - 看过[《宿命回响》](http://movie.douban.com/subject/35417875/) - `2021-12-22`
 - 看过[《无职转生：到了异世界就拿出真本事 part2》](http://movie.douban.com/subject/35306636/) - `2021-12-21`
 - 看过[《贾希大人不气馁》](http://movie.douban.com/subject/35410438/) - `2021-12-21`
-- 看过[《三峡好人》](http://movie.douban.com/subject/1872133/) - `2021-12-20`
-- 读过[《女神记》](https://book.douban.com/subject/34996391/) - `2021-12-20`
 
 </td>
 </tr>
