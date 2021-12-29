@@ -31,6 +31,9 @@
 
 ### 📚 Douban activities
 
+- 看过[《双峰：与火同行》](http://movie.douban.com/subject/1303472/) - `2021-12-28`
+- 读过[《成吉思汗与今日中国之形成》](https://book.douban.com/subject/30245840/) - `2021-12-28`
+- 读过[《观看之道》](https://book.douban.com/subject/26427579/) - `2021-12-28`
 - 读过[《千面英雄》](https://book.douban.com/subject/7174792/) - `2021-12-27`
 - 看过[《鹰眼》](http://movie.douban.com/subject/33406089/) - `2021-12-26`
 - 看过[《平家物语》](http://movie.douban.com/subject/35590029/) - `2021-12-25`
@@ -38,9 +41,6 @@
 - 看过[《阿Q正传》](http://movie.douban.com/subject/1306506/) - `2021-12-23`
 - 看过[《Muv-Luv Alternative》](http://movie.douban.com/subject/35233901/) - `2021-12-23`
 - 看过[《黑客帝国：矩阵重启》](http://movie.douban.com/subject/34801038/) - `2021-12-22`
-- 读过[《中国独立电影访谈录》](https://book.douban.com/subject/30229539/) - `2021-12-22`
-- 读过[《毁灭与重生》](https://book.douban.com/subject/35338341/) - `2021-12-22`
-- 看过[《宿命回响》](http://movie.douban.com/subject/35417875/) - `2021-12-22`
 
 </td>
 </tr>
