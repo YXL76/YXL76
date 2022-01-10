@@ -31,16 +31,16 @@
 
 ### 📚 Douban activities
 
+- 看过[《盛夏光年》](http://movie.douban.com/subject/1914831/) - `2022-1-09`
+- 看过[《反贪风暴5：最终章》](http://movie.douban.com/subject/32579501/) - `2022-1-09`
+- 玩过[《奇妙探险队 Curious Expedition》](http://www.douban.com/game/26411767/) - `2022-1-09`
+- 玩过[《着色游戏 2 Coloring Game 2》](http://www.douban.com/game/35063806/) - `2022-1-09`
+- 玩过[《光明记忆：无限 Bright Memory: Infinite》](http://www.douban.com/game/35063646/) - `2022-1-09`
+- 玩过[《Apex英雄 Apex Legends》](http://www.douban.com/game/30453625/) - `2022-1-09`
 - 看过[《双峰 第三季》](http://movie.douban.com/subject/26088510/) - `2022-1-03`
 - 看过[《双峰：遗失的碎片》](http://movie.douban.com/subject/26712750/) - `2022-1-02`
 - 看过[《旋转少女》](http://movie.douban.com/subject/25955418/) - `2022-1-02`
 - 看过[《短剧开始啦》](http://movie.douban.com/subject/35358556/) - `2021-12-30`
-- 看过[《3–4x10月》](http://movie.douban.com/subject/1297290/) - `2021-12-30`
-- 看过[《键的嘉年华》](http://movie.douban.com/subject/35438216/) - `2021-12-29`
-- 看过[《永不消逝的电波》](http://movie.douban.com/subject/1431694/) - `2021-12-29`
-- 读过[《操作系统设计：Xinu方法》](https://book.douban.com/subject/25772410/) - `2021-12-29`
-- 看过[《赤线地带》](http://movie.douban.com/subject/1466788/) - `2021-12-29`
-- 看过[《双峰：与火同行》](http://movie.douban.com/subject/1303472/) - `2021-12-28`
 
 </td>
 </tr>
