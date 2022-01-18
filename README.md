@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《青春残酷物语》](http://movie.douban.com/subject/1303691/) - `2022-1-17`
 - 看过[《狂热深渊-迷失的孩子》](http://movie.douban.com/subject/35510775/) - `2022-1-16`
 - 看过[《盛夏光年》](http://movie.douban.com/subject/1914831/) - `2022-1-09`
 - 看过[《反贪风暴5：最终章》](http://movie.douban.com/subject/32579501/) - `2022-1-09`
@@ -40,7 +41,6 @@
 - 玩过[《Apex英雄 Apex Legends》](http://www.douban.com/game/30453625/) - `2022-1-09`
 - 看过[《双峰 第三季》](http://movie.douban.com/subject/26088510/) - `2022-1-03`
 - 看过[《双峰：遗失的碎片》](http://movie.douban.com/subject/26712750/) - `2022-1-02`
-- 看过[《旋转少女》](http://movie.douban.com/subject/25955418/) - `2022-1-02`
 
 </td>
 </tr>
