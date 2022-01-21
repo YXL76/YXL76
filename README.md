@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《巴克·亚罗》](http://movie.douban.com/subject/34937955/) - `2022-1-20`
+- 看过[《战场上的快乐圣诞》](http://movie.douban.com/subject/1303535/) - `2022-1-20`
 - 看过[《青春残酷物语》](http://movie.douban.com/subject/1303691/) - `2022-1-17`
 - 看过[《狂热深渊-迷失的孩子》](http://movie.douban.com/subject/35510775/) - `2022-1-16`
 - 看过[《盛夏光年》](http://movie.douban.com/subject/1914831/) - `2022-1-09`
@@ -39,8 +41,6 @@
 - 玩过[《着色游戏 2 Coloring Game 2》](http://www.douban.com/game/35063806/) - `2022-1-09`
 - 玩过[《光明记忆：无限 Bright Memory: Infinite》](http://www.douban.com/game/35063646/) - `2022-1-09`
 - 玩过[《Apex英雄 Apex Legends》](http://www.douban.com/game/30453625/) - `2022-1-09`
-- 看过[《双峰 第三季》](http://movie.douban.com/subject/26088510/) - `2022-1-03`
-- 看过[《双峰：遗失的碎片》](http://movie.douban.com/subject/26712750/) - `2022-1-02`
 
 </td>
 </tr>
