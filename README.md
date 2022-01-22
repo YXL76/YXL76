@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生》](http://movie.douban.com/subject/35257616/) - `2022-1-21`
 - 看过[《巴克·亚罗》](http://movie.douban.com/subject/34937955/) - `2022-1-20`
 - 看过[《战场上的快乐圣诞》](http://movie.douban.com/subject/1303535/) - `2022-1-20`
 - 看过[《青春残酷物语》](http://movie.douban.com/subject/1303691/) - `2022-1-17`
@@ -40,7 +41,6 @@
 - 玩过[《奇妙探险队 Curious Expedition》](http://www.douban.com/game/26411767/) - `2022-1-09`
 - 玩过[《着色游戏 2 Coloring Game 2》](http://www.douban.com/game/35063806/) - `2022-1-09`
 - 玩过[《光明记忆：无限 Bright Memory: Infinite》](http://www.douban.com/game/35063646/) - `2022-1-09`
-- 玩过[《Apex英雄 Apex Legends》](http://www.douban.com/game/30453625/) - `2022-1-09`
 
 </td>
 </tr>
