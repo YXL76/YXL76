@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《蛇舌》](http://movie.douban.com/subject/4068816/) - `2022-1-29`
+- 看过[《猜火车》](http://movie.douban.com/subject/1292528/) - `2022-1-29`
 - 看过[《地球外少年少女》](http://movie.douban.com/subject/30227845/) - `2022-1-28`
 - 想读[《天下骏马》](https://book.douban.com/subject/35178386/) - `2022-1-28`
 - 看过[《可怜美玉陷泥淖》](http://movie.douban.com/subject/1812109/) - `2022-1-27`
@@ -39,8 +41,6 @@
 - 看过[《极工夫道》](http://movie.douban.com/subject/35559527/) - `2022-1-26`
 - 看过[《极主夫道 part2》](http://movie.douban.com/subject/35438002/) - `2022-1-26`
 - 看过[《极主夫道》](http://movie.douban.com/subject/35235191/) - `2022-1-26`
-- 看过[《酷爱电影的庞波小姐》](http://movie.douban.com/subject/30037194/) - `2022-1-26`
-- 看过[《古见同学有交流障碍症》](http://movie.douban.com/subject/34982453/) - `2022-1-25`
 
 </td>
 </tr>
