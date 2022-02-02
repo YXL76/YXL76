@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《黄金时代》](http://movie.douban.com/subject/1294100/) - `2022-2-01`
 - 看过[《东京食尸鬼》](http://movie.douban.com/subject/25813403/) - `2022-1-31`
 - 看过[《蛇舌》](http://movie.douban.com/subject/4068816/) - `2022-1-29`
 - 看过[《猜火车》](http://movie.douban.com/subject/1292528/) - `2022-1-29`
@@ -40,7 +41,6 @@
 - 看过[《天竺鼠车车》](http://movie.douban.com/subject/35314507/) - `2022-1-27`
 - 看过[《极工夫道 2》](http://movie.douban.com/subject/35597290/) - `2022-1-26`
 - 看过[《极工夫道》](http://movie.douban.com/subject/35559527/) - `2022-1-26`
-- 看过[《极主夫道 part2》](http://movie.douban.com/subject/35438002/) - `2022-1-26`
 
 </td>
 </tr>
