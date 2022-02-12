@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 看过[《误杀2》](http://movie.douban.com/subject/35068653/) - `2022-2-11`
+- 看过[《王牌特工：源起》](http://movie.douban.com/subject/27038228/) - `2022-2-11`
 - 看过[《魔法满屋》](http://movie.douban.com/subject/35134724/) - `2022-2-10`
 - 看过[《奇迹·笨小孩》](http://movie.douban.com/subject/35312437/) - `2022-2-10`
 - 看过[《爱情神话》](http://movie.douban.com/subject/35376457/) - `2022-2-10`
@@ -39,8 +41,6 @@
 - 看过[《克丽丝汀》](http://movie.douban.com/subject/2140306/) - `2022-2-09`
 - 看过[《这个杀手不太冷静》](http://movie.douban.com/subject/35505100/) - `2022-2-08`
 - 看过[《不要抬头》](http://movie.douban.com/subject/34884712/) - `2022-2-07`
-- 在看[《异星灾变 第二季》](http://movie.douban.com/subject/35206532/) - `2022-2-06`
-- 看过[《通讯员》](http://movie.douban.com/subject/2361887/) - `2022-2-06`
 
 </td>
 </tr>
