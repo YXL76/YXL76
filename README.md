@@ -31,16 +31,16 @@
 
 ### 📚 Douban activities
 
+- 看过[《长津湖之水门桥》](http://movie.douban.com/subject/35613853/) - `2022-2-13`
+- 看过[《扬名立万》](http://movie.douban.com/subject/35422807/) - `2022-2-13`
+- 看过[《永恒族》](http://movie.douban.com/subject/30223888/) - `2022-2-13`
+- 看过[《东京食尸鬼 第二季》](http://movie.douban.com/subject/26113806/) - `2022-2-13`
 - 看过[《犬之力》](http://movie.douban.com/subject/33437152/) - `2022-2-12`
 - 看过[《偷窥的小洞OVA》](http://movie.douban.com/subject/19966581/) - `2022-2-12`
 - 看过[《守望者》](http://movie.douban.com/subject/26635374/) - `2022-2-12`
 - 看过[《误杀2》](http://movie.douban.com/subject/35068653/) - `2022-2-11`
 - 看过[《王牌特工：源起》](http://movie.douban.com/subject/27038228/) - `2022-2-11`
 - 看过[《魔法满屋》](http://movie.douban.com/subject/35134724/) - `2022-2-10`
-- 看过[《奇迹·笨小孩》](http://movie.douban.com/subject/35312437/) - `2022-2-10`
-- 看过[《爱情神话》](http://movie.douban.com/subject/35376457/) - `2022-2-10`
-- 看过[《狙击手》](http://movie.douban.com/subject/35215390/) - `2022-2-09`
-- 看过[《魔幻时刻》](http://movie.douban.com/subject/2157507/) - `2022-2-09`
 
 </td>
 </tr>
