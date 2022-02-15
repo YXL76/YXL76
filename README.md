@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《健听女孩》](http://movie.douban.com/subject/35048413/) - `2022-2-14`
 - 看过[《长津湖之水门桥》](http://movie.douban.com/subject/35613853/) - `2022-2-13`
 - 看过[《扬名立万》](http://movie.douban.com/subject/35422807/) - `2022-2-13`
 - 看过[《永恒族》](http://movie.douban.com/subject/30223888/) - `2022-2-13`
@@ -40,7 +41,6 @@
 - 看过[《守望者》](http://movie.douban.com/subject/26635374/) - `2022-2-12`
 - 看过[《误杀2》](http://movie.douban.com/subject/35068653/) - `2022-2-11`
 - 看过[《王牌特工：源起》](http://movie.douban.com/subject/27038228/) - `2022-2-11`
-- 看过[《魔法满屋》](http://movie.douban.com/subject/35134724/) - `2022-2-10`
 
 </td>
 </tr>
