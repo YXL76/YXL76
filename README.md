@@ -31,6 +31,9 @@
 
 ### 📚 Douban activities
 
+- 看过[《女子警察的逆袭》](http://movie.douban.com/subject/35447242/) - `2022-2-16`
+- 看过[《四海》](http://movie.douban.com/subject/35337517/) - `2022-2-16`
+- 看过[《狮子王》](http://movie.douban.com/subject/1301753/) - `2022-2-16`
 - 看过[《猜火车2》](http://movie.douban.com/subject/22263645/) - `2022-2-15`
 - 看过[《世界旦夕之间》](http://movie.douban.com/subject/3228134/) - `2022-2-15`
 - 看过[《健听女孩》](http://movie.douban.com/subject/35048413/) - `2022-2-14`
@@ -38,9 +41,6 @@
 - 看过[《扬名立万》](http://movie.douban.com/subject/35422807/) - `2022-2-13`
 - 看过[《永恒族》](http://movie.douban.com/subject/30223888/) - `2022-2-13`
 - 看过[《东京食尸鬼 第二季》](http://movie.douban.com/subject/26113806/) - `2022-2-13`
-- 看过[《犬之力》](http://movie.douban.com/subject/33437152/) - `2022-2-12`
-- 看过[《偷窥的小洞OVA》](http://movie.douban.com/subject/19966581/) - `2022-2-12`
-- 看过[《守望者》](http://movie.douban.com/subject/26635374/) - `2022-2-12`
 
 </td>
 </tr>
