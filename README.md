@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《跳跃大搜查线》](http://movie.douban.com/subject/1984851/) - `2022-2-20`
 - 看过[《空白》](http://movie.douban.com/subject/34990918/) - `2022-2-19`
 - 看过[《古驰家族》](http://movie.douban.com/subject/3078409/) - `2022-2-18`
 - 看过[《海兽之子》](http://movie.douban.com/subject/30274965/) - `2022-2-17`
@@ -40,7 +41,6 @@
 - 看过[《四海》](http://movie.douban.com/subject/35337517/) - `2022-2-16`
 - 看过[《狮子王》](http://movie.douban.com/subject/1301753/) - `2022-2-16`
 - 看过[《猜火车2》](http://movie.douban.com/subject/22263645/) - `2022-2-15`
-- 看过[《世界旦夕之间》](http://movie.douban.com/subject/3228134/) - `2022-2-15`
 
 </td>
 </tr>
