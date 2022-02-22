@@ -31,6 +31,8 @@
 
 ### 📚 Douban activities
 
+- 听过[《冀西南林路行》](https://music.douban.com/subject/35292992/) - `2022-2-21`
+- 看过[《和平使者 第一季》](http://movie.douban.com/subject/35209701/) - `2022-2-21`
 - 看过[《跳跃大搜查线》](http://movie.douban.com/subject/1984851/) - `2022-2-20`
 - 看过[《空白》](http://movie.douban.com/subject/34990918/) - `2022-2-19`
 - 看过[《古驰家族》](http://movie.douban.com/subject/3078409/) - `2022-2-18`
@@ -39,8 +41,6 @@
 - 看过[《女子警察的逆袭SP1》](http://movie.douban.com/subject/35597351/) - `2022-2-17`
 - 看过[《女子警察的逆袭》](http://movie.douban.com/subject/35447242/) - `2022-2-16`
 - 看过[《四海》](http://movie.douban.com/subject/35337517/) - `2022-2-16`
-- 看过[《狮子王》](http://movie.douban.com/subject/1301753/) - `2022-2-16`
-- 看过[《猜火车2》](http://movie.douban.com/subject/22263645/) - `2022-2-15`
 
 </td>
 </tr>
