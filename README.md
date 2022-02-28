@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《人民公仆 第一季》](http://movie.douban.com/subject/26946524/) - `2022-2-27`
 - 读过[《亮剑》](https://book.douban.com/subject/1088022/) - `2022-2-25`
 - 玩过[《吸血鬼幸存者 Vampire Survivors》](http://www.douban.com/game/35732926/) - `2022-2-24`
 - 听过[《冀西南林路行》](https://music.douban.com/subject/35292992/) - `2022-2-21`
@@ -40,7 +41,6 @@
 - 看过[《古驰家族》](http://movie.douban.com/subject/3078409/) - `2022-2-18`
 - 看过[《海兽之子》](http://movie.douban.com/subject/30274965/) - `2022-2-17`
 - 看过[《女子警察的逆袭SP2》](http://movie.douban.com/subject/35597352/) - `2022-2-17`
-- 看过[《女子警察的逆袭SP1》](http://movie.douban.com/subject/35597351/) - `2022-2-17`
 
 </td>
 </tr>
