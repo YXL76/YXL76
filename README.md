@@ -31,16 +31,16 @@
 
 ### 📚 Douban activities
 
+- 看过[《猫眼三姐妹 第二季》](http://movie.douban.com/subject/10458685/) - `2022-3-05`
+- 看过[《猫眼三姐妹》](http://movie.douban.com/subject/1465036/) - `2022-3-05`
+- 看过[《人民公仆 第三季》](http://movie.douban.com/subject/34429012/) - `2022-3-05`
+- 看过[《人民公仆 第二季》](http://movie.douban.com/subject/30295112/) - `2022-3-05`
 - 看过[《开拍吧》](http://movie.douban.com/subject/35465393/) - `2022-3-04`
 - 看过[《导演请指教》](http://movie.douban.com/subject/35518790/) - `2022-3-03`
 - 看过[《人民公仆 第一季》](http://movie.douban.com/subject/26946524/) - `2022-2-27`
 - 读过[《亮剑》](https://book.douban.com/subject/1088022/) - `2022-2-25`
 - 玩过[《吸血鬼幸存者 Vampire Survivors》](http://www.douban.com/game/35732926/) - `2022-2-24`
 - 听过[《冀西南林路行》](https://music.douban.com/subject/35292992/) - `2022-2-21`
-- 看过[《和平使者 第一季》](http://movie.douban.com/subject/35209701/) - `2022-2-21`
-- 看过[《跳跃大搜查线》](http://movie.douban.com/subject/1984851/) - `2022-2-20`
-- 看过[《空白》](http://movie.douban.com/subject/34990918/) - `2022-2-19`
-- 看过[《古驰家族》](http://movie.douban.com/subject/3078409/) - `2022-2-18`
 
 </td>
 </tr>
