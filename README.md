@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《蜘蛛侠：英雄无归》](http://movie.douban.com/subject/26933210/) - `2022-3-12`
 - 看过[《坂上之云 第一部》](http://movie.douban.com/subject/2049761/) - `2022-3-07`
 - 看过[《猫眼三姐妹 第二季》](http://movie.douban.com/subject/10458685/) - `2022-3-05`
 - 看过[《猫眼三姐妹》](http://movie.douban.com/subject/1465036/) - `2022-3-05`
@@ -40,7 +41,6 @@
 - 看过[《导演请指教》](http://movie.douban.com/subject/35518790/) - `2022-3-03`
 - 看过[《人民公仆 第一季》](http://movie.douban.com/subject/26946524/) - `2022-2-27`
 - 读过[《亮剑》](https://book.douban.com/subject/1088022/) - `2022-2-25`
-- 玩过[《吸血鬼幸存者 Vampire Survivors》](http://www.douban.com/game/35732926/) - `2022-2-24`
 
 </td>
 </tr>
