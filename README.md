@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《国王排名》](http://movie.douban.com/subject/34927946/) - `2022-3-25`
 - 想读[《The Spy Within》](https://book.douban.com/subject/3284761/) - `2022-3-24`
 - 看过[《龙和雀斑公主》](http://movie.douban.com/subject/35287908/) - `2022-3-21`
 - 看过[《青之炎》](http://movie.douban.com/subject/1389924/) - `2022-3-20`
@@ -40,7 +41,6 @@
 - 看过[《圣山》](http://movie.douban.com/subject/1756834/) - `2022-3-19`
 - 看过[《终末的后宫》](http://movie.douban.com/subject/35071015/) - `2022-3-19`
 - 看过[《血色山丘》](http://movie.douban.com/subject/3564279/) - `2022-3-18`
-- 看过[《异星灾变 第二季》](http://movie.douban.com/subject/35206532/) - `2022-3-18`
 
 </td>
 </tr>
