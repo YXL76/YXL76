@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《更衣人偶坠入爱河》](http://movie.douban.com/subject/35437623/) - `2022-3-27`
 - 看过[《夏日幽灵》](http://movie.douban.com/subject/35368245/) - `2022-3-26`
 - 看过[《国王排名》](http://movie.douban.com/subject/34927946/) - `2022-3-25`
 - 想读[《The Spy Within》](https://book.douban.com/subject/3284761/) - `2022-3-24`
@@ -40,7 +41,6 @@
 - 看过[《86 -不存在的战区- Part.2》](http://movie.douban.com/subject/35510433/) - `2022-3-20`
 - 看过[《杨之后》](http://movie.douban.com/subject/30475837/) - `2022-3-19`
 - 看过[《圣山》](http://movie.douban.com/subject/1756834/) - `2022-3-19`
-- 看过[《终末的后宫》](http://movie.douban.com/subject/35071015/) - `2022-3-19`
 
 </td>
 </tr>
