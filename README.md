@@ -31,6 +31,9 @@
 
 ### 📚 Douban activities
 
+- 看过[《青春变形记》](http://movie.douban.com/subject/35284253/) - `2022-4-02`
+- 看过[《皆为爱》](http://movie.douban.com/subject/33218436/) - `2022-4-02`
+- 看过[《女子警察的逆袭》](http://movie.douban.com/subject/35559629/) - `2022-4-02`
 - 看过[《明日酱的水手服》](http://movie.douban.com/subject/35417836/) - `2022-4-01`
 - 想看[《追缉：炸弹客 第一季》](http://movie.douban.com/subject/26926437/) - `2022-3-31`
 - 看过[《食锈末世录》](http://movie.douban.com/subject/35390510/) - `2022-3-29`
@@ -38,9 +41,6 @@
 - 看过[《夏日幽灵》](http://movie.douban.com/subject/35368245/) - `2022-3-26`
 - 看过[《国王排名》](http://movie.douban.com/subject/34927946/) - `2022-3-25`
 - 想读[《The Spy Within》](https://book.douban.com/subject/3284761/) - `2022-3-24`
-- 看过[《龙和雀斑公主》](http://movie.douban.com/subject/35287908/) - `2022-3-21`
-- 看过[《青之炎》](http://movie.douban.com/subject/1389924/) - `2022-3-20`
-- 看过[《赛马娘》](http://movie.douban.com/subject/30203373/) - `2022-3-20`
 
 </td>
 </tr>
