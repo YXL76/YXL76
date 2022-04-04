@@ -31,6 +31,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《现实主义勇者的王国再建记 第二季》](http://movie.douban.com/subject/35611226/) - `2022-4-03`
 - 看过[《青春变形记》](http://movie.douban.com/subject/35284253/) - `2022-4-02`
 - 看过[《皆为爱》](http://movie.douban.com/subject/33218436/) - `2022-4-02`
 - 看过[《女子警察的逆袭》](http://movie.douban.com/subject/35559629/) - `2022-4-02`
@@ -40,7 +41,6 @@
 - 看过[《更衣人偶坠入爱河》](http://movie.douban.com/subject/35437623/) - `2022-3-27`
 - 看过[《夏日幽灵》](http://movie.douban.com/subject/35368245/) - `2022-3-26`
 - 看过[《国王排名》](http://movie.douban.com/subject/34927946/) - `2022-3-25`
-- 想读[《The Spy Within》](https://book.douban.com/subject/3284761/) - `2022-3-24`
 
 </td>
 </tr>
