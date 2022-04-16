@@ -77,7 +77,6 @@ new Promise((resolve, reject) => {
 
 ![Wakatime stats](https://github-readme-stats.yxl76.vercel.app/api/wakatime?username=YXL76&layout=compact&theme=prussian)
 
-
 </td>
 <td valign="top" width="46%">
 

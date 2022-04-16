@@ -25,12 +25,13 @@
 
 ![Wakatime stats](https://github-readme-stats.yxl76.vercel.app/api/wakatime?username=YXL76&layout=compact&theme=prussian)
 
-
 </td>
 <td valign="top" width="46%">
 
 ### 📚 Douban activities
 
+- 看过[《机动奥特曼 第二季》](http://movie.douban.com/subject/34430384/) - `2022-4-16`
+- 看过[《机动奥特曼 第一季》](http://movie.douban.com/subject/27594851/) - `2022-4-16`
 - 看过[《新蝙蝠侠》](http://movie.douban.com/subject/6424756/) - `2022-4-14`
 - 看过[《刺猬索尼克》](http://movie.douban.com/subject/25905044/) - `2022-4-12`
 - 看过[《沧海渔生》](http://movie.douban.com/subject/35288804/) - `2022-4-10`
@@ -39,8 +40,6 @@
 - 看过[《尼罗河上的惨案》](http://movie.douban.com/subject/1302100/) - `2022-4-05`
 - 看过[《进击的巨人 最终季 Part.2》](http://movie.douban.com/subject/35290710/) - `2022-4-05`
 - 看过[《消失的爱人》](http://movie.douban.com/subject/21318488/) - `2022-4-04`
-- 看过[《现实主义勇者的王国再建记 第二季》](http://movie.douban.com/subject/35611226/) - `2022-4-03`
-- 看过[《青春变形记》](http://movie.douban.com/subject/35284253/) - `2022-4-02`
 
 </td>
 </tr>
