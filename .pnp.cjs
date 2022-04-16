@@ -50,7 +50,7 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["sax", [\
       ["npm:1.2.4", {\
-        "packageLocation": "../.yarn/berry/cache/sax-npm-1.2.4-178f05f12f-9.zip/node_modules/sax/",\
+        "packageLocation": "./.yarn/cache/sax-npm-1.2.4-178f05f12f-2917c3ef3c.zip/node_modules/sax/",\
         "packageDependencies": [\
           ["sax", "npm:1.2.4"]\
         ],\
@@ -59,7 +59,7 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["xml2js", [\
       ["npm:0.4.23", {\
-        "packageLocation": "../.yarn/berry/cache/xml2js-npm-0.4.23-93a8b2e10b-9.zip/node_modules/xml2js/",\
+        "packageLocation": "./.yarn/cache/xml2js-npm-0.4.23-93a8b2e10b-89bcbacc48.zip/node_modules/xml2js/",\
         "packageDependencies": [\
           ["xml2js", "npm:0.4.23"],\
           ["sax", "npm:1.2.4"],\
@@ -70,7 +70,7 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["xmlbuilder", [\
       ["npm:11.0.1", {\
-        "packageLocation": "../.yarn/berry/cache/xmlbuilder-npm-11.0.1-b8b04dc929-9.zip/node_modules/xmlbuilder/",\
+        "packageLocation": "./.yarn/cache/xmlbuilder-npm-11.0.1-b8b04dc929-5de9c0d9f3.zip/node_modules/xmlbuilder/",\
         "packageDependencies": [\
           ["xmlbuilder", "npm:11.0.1"]\
         ],\
