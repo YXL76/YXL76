@@ -30,16 +30,16 @@
 
 ### 📚 Douban activities
 
+- 看过[《深闺疑云》](http://movie.douban.com/subject/1295568/) - `2022-4-26`
+- 看过[《西北偏北》](http://movie.douban.com/subject/1295872/) - `2022-4-26`
+- 看过[《艳贼》](http://movie.douban.com/subject/1298442/) - `2022-4-26`
+- 看过[《怪尸案》](http://movie.douban.com/subject/1301232/) - `2022-4-26`
 - 看过[《神奇动物：邓布利多之谜》](http://movie.douban.com/subject/26147418/) - `2022-4-25`
 - 看过[《爱德华大夫》](http://movie.douban.com/subject/1293973/) - `2022-4-25`
 - 看过[《后窗》](http://movie.douban.com/subject/1299080/) - `2022-4-24`
 - 看过[《火车怪客》](http://movie.douban.com/subject/1298505/) - `2022-4-24`
 - 看过[《贵妇失踪记》](http://movie.douban.com/subject/1292760/) - `2022-4-23`
 - 看过[《环太平洋：黑色禁区 第二季》](http://movie.douban.com/subject/35813611/) - `2022-4-22`
-- 看过[《夺魂索》](http://movie.douban.com/subject/1301230/) - `2022-4-21`
-- 看过[《电话谋杀案》](http://movie.douban.com/subject/1301231/) - `2022-4-21`
-- 在看[《夏日重现》](http://movie.douban.com/subject/35351365/) - `2022-4-21`
-- 在看[《间谍过家家》](http://movie.douban.com/subject/35258427/) - `2022-4-21`
 
 </td>
 </tr>
