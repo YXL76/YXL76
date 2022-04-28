@@ -30,6 +30,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《捉贼记》](http://movie.douban.com/subject/1295622/) - `2022-4-27`
 - 看过[《深闺疑云》](http://movie.douban.com/subject/1295568/) - `2022-4-26`
 - 看过[《西北偏北》](http://movie.douban.com/subject/1295872/) - `2022-4-26`
 - 看过[《艳贼》](http://movie.douban.com/subject/1298442/) - `2022-4-26`
@@ -39,7 +40,6 @@
 - 看过[《后窗》](http://movie.douban.com/subject/1299080/) - `2022-4-24`
 - 看过[《火车怪客》](http://movie.douban.com/subject/1298505/) - `2022-4-24`
 - 看过[《贵妇失踪记》](http://movie.douban.com/subject/1292760/) - `2022-4-23`
-- 看过[《环太平洋：黑色禁区 第二季》](http://movie.douban.com/subject/35813611/) - `2022-4-22`
 
 </td>
 </tr>
