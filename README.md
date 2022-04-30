@@ -30,16 +30,16 @@
 
 ### 📚 Douban activities
 
+- 看过[《群鸟》](http://movie.douban.com/subject/1310175/) - `2022-4-29`
+- 看过[《蝴蝶梦》](http://movie.douban.com/subject/1293824/) - `2022-4-29`
+- 看过[《狂凶记》](http://movie.douban.com/subject/1295820/) - `2022-4-29`
+- 看过[《美人计》](http://movie.douban.com/subject/1300766/) - `2022-4-29`
 - 看过[《三十九级台阶》](http://movie.douban.com/subject/1298412/) - `2022-4-28`
 - 看过[《擒凶记》](http://movie.douban.com/subject/1301233/) - `2022-4-28`
 - 看过[《泡泡》](http://movie.douban.com/subject/35688370/) - `2022-4-28`
 - 看过[《捉贼记》](http://movie.douban.com/subject/1295622/) - `2022-4-27`
 - 看过[《深闺疑云》](http://movie.douban.com/subject/1295568/) - `2022-4-26`
 - 看过[《西北偏北》](http://movie.douban.com/subject/1295872/) - `2022-4-26`
-- 看过[《艳贼》](http://movie.douban.com/subject/1298442/) - `2022-4-26`
-- 看过[《怪尸案》](http://movie.douban.com/subject/1301232/) - `2022-4-26`
-- 看过[《神奇动物：邓布利多之谜》](http://movie.douban.com/subject/26147418/) - `2022-4-25`
-- 看过[《爱德华大夫》](http://movie.douban.com/subject/1293973/) - `2022-4-25`
 
 </td>
 </tr>
