@@ -30,6 +30,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《如沐爱河》](http://movie.douban.com/subject/5995338/) - `2022-5-03`
 - 看过[《群鸟》](http://movie.douban.com/subject/1310175/) - `2022-4-29`
 - 看过[《蝴蝶梦》](http://movie.douban.com/subject/1293824/) - `2022-4-29`
 - 看过[《狂凶记》](http://movie.douban.com/subject/1295820/) - `2022-4-29`
@@ -39,7 +40,6 @@
 - 看过[《泡泡》](http://movie.douban.com/subject/35688370/) - `2022-4-28`
 - 看过[《捉贼记》](http://movie.douban.com/subject/1295622/) - `2022-4-27`
 - 看过[《深闺疑云》](http://movie.douban.com/subject/1295568/) - `2022-4-26`
-- 看过[《西北偏北》](http://movie.douban.com/subject/1295872/) - `2022-4-26`
 
 </td>
 </tr>
