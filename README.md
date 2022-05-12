@@ -30,6 +30,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《攻壳机动队 SAC_2045 持续可能战争》](http://movie.douban.com/subject/35528906/) - `2022-5-11`
 - 看过[《通天塔》](http://movie.douban.com/subject/1498818/) - `2022-5-07`
 - 看过[《如沐爱河》](http://movie.douban.com/subject/5995338/) - `2022-5-03`
 - 看过[《群鸟》](http://movie.douban.com/subject/1310175/) - `2022-4-29`
@@ -39,7 +40,6 @@
 - 看过[《三十九级台阶》](http://movie.douban.com/subject/1298412/) - `2022-4-28`
 - 看过[《擒凶记》](http://movie.douban.com/subject/1301233/) - `2022-4-28`
 - 看过[《泡泡》](http://movie.douban.com/subject/35688370/) - `2022-4-28`
-- 看过[《捉贼记》](http://movie.douban.com/subject/1295622/) - `2022-4-27`
 
 </td>
 </tr>
