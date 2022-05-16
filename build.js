@@ -66,7 +66,7 @@ new Promise((resolve, reject) => {
 
 ### 🌱 Top languages
 
-![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=prussian&langs_count=8&hide=HTML,CSS,SCSS)
+![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=YXL76&layout=compact&theme=prussian&langs_count=8&hide=HTML,CSS,SCSS,Tex)
 
 </td>
 </tr>
