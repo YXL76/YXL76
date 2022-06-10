@@ -30,6 +30,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《百变狸猫》](http://movie.douban.com/subject/1303907/) - `2022-6-09`
 - 玩过[《时空幻境 Braid》](http://www.douban.com/game/10739949/) - `2022-6-08`
 - 读过[《Go语言底层原理剖析》](https://book.douban.com/subject/35556889/) - `2022-6-05`
 - 在看[《黑袍纠察队 第三季》](http://movie.douban.com/subject/35154050/) - `2022-6-04`
@@ -39,7 +40,6 @@
 - 看过[《精灵守护者》](http://movie.douban.com/subject/2076924/) - `2022-5-30`
 - 看过[《红猪》](http://movie.douban.com/subject/1291838/) - `2022-5-28`
 - 看过[《沙丘》](http://movie.douban.com/subject/3001114/) - `2022-5-28`
-- 看过[《涩谷保卫战》](http://movie.douban.com/subject/30163816/) - `2022-5-27`
 
 </td>
 </tr>
