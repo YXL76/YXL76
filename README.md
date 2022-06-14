@@ -30,6 +30,7 @@
 
 ### 📚 Douban activities
 
+- 读过[《饥饿的女儿》](https://book.douban.com/subject/26727035/) - `2022-6-13`
 - 看过[《侏罗纪世界3》](http://movie.douban.com/subject/26873582/) - `2022-6-10`
 - 看过[《百变狸猫》](http://movie.douban.com/subject/1303907/) - `2022-6-09`
 - 玩过[《时空幻境 Braid》](http://www.douban.com/game/10739949/) - `2022-6-08`
@@ -39,7 +40,6 @@
 - 读过[《沙丘2》](https://book.douban.com/subject/27098887/) - `2022-6-01`
 - 读过[《沙丘》](https://book.douban.com/subject/26836970/) - `2022-6-01`
 - 看过[《精灵守护者》](http://movie.douban.com/subject/2076924/) - `2022-5-30`
-- 看过[《红猪》](http://movie.douban.com/subject/1291838/) - `2022-5-28`
 
 </td>
 </tr>
