@@ -30,16 +30,16 @@
 
 ### 📚 Douban activities
 
+- 看过[《遗迹守护者》](http://movie.douban.com/subject/1416692/) - `2022-6-19`
+- 读过[《Internet of Things Projects with ESP32》](https://book.douban.com/subject/35381760/) - `2022-6-19`
+- 看过[《遗迹守护者》](http://movie.douban.com/subject/30486664/) - `2022-6-18`
+- 看过[《派对浪客诸葛孔明》](http://movie.douban.com/subject/35633903/) - `2022-6-17`
+- 看过[《街角魔族》](http://movie.douban.com/subject/30446565/) - `2022-6-14`
+- 玩过[《使命召唤：现代战争2 Call of Duty: Modern Warfare 2》](http://www.douban.com/game/10734060/) - `2022-6-14`
 - 读过[《饥饿的女儿》](https://book.douban.com/subject/26727035/) - `2022-6-13`
 - 看过[《侏罗纪世界3》](http://movie.douban.com/subject/26873582/) - `2022-6-10`
 - 看过[《百变狸猫》](http://movie.douban.com/subject/1303907/) - `2022-6-09`
 - 玩过[《时空幻境 Braid》](http://www.douban.com/game/10739949/) - `2022-6-08`
-- 读过[《Go语言底层原理剖析》](https://book.douban.com/subject/35556889/) - `2022-6-05`
-- 在看[《黑袍纠察队 第三季》](http://movie.douban.com/subject/35154050/) - `2022-6-04`
-- 看过[《绝命人生：大逃亡》](http://movie.douban.com/subject/35745565/) - `2022-6-02`
-- 读过[《沙丘2》](https://book.douban.com/subject/27098887/) - `2022-6-01`
-- 读过[《沙丘》](https://book.douban.com/subject/26836970/) - `2022-6-01`
-- 看过[《精灵守护者》](http://movie.douban.com/subject/2076924/) - `2022-5-30`
 
 </td>
 </tr>
