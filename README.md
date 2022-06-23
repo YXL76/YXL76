@@ -30,6 +30,7 @@
 
 ### 📚 Douban activities
 
+- 读过[《Operating Systems》](https://book.douban.com/subject/19973015/) - `2022-6-22`
 - 看过[《遗迹守护者》](http://movie.douban.com/subject/1416692/) - `2022-6-19`
 - 读过[《Internet of Things Projects with ESP32》](https://book.douban.com/subject/35381760/) - `2022-6-19`
 - 看过[《遗迹守护者》](http://movie.douban.com/subject/30486664/) - `2022-6-18`
@@ -39,7 +40,6 @@
 - 读过[《饥饿的女儿》](https://book.douban.com/subject/26727035/) - `2022-6-13`
 - 看过[《侏罗纪世界3》](http://movie.douban.com/subject/26873582/) - `2022-6-10`
 - 看过[《百变狸猫》](http://movie.douban.com/subject/1303907/) - `2022-6-09`
-- 玩过[《时空幻境 Braid》](http://www.douban.com/game/10739949/) - `2022-6-08`
 
 </td>
 </tr>
