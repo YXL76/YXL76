@@ -30,16 +30,16 @@
 
 ### 📚 Douban activities
 
+- 看过[《古见同学有交流障碍症 第二季》](http://movie.douban.com/subject/35708647/) - `2022-6-23`
+- 看过[《相合之物》](http://movie.douban.com/subject/35438300/) - `2022-6-23`
+- 读过[《革命与历史》](https://book.douban.com/subject/1228042/) - `2022-6-23`
+- 看过[《奇异博士2：疯狂多元宇宙》](http://movie.douban.com/subject/30304994/) - `2022-6-23`
+- 读过[《古希腊文明的光芒（上下）》](https://book.douban.com/subject/35225153/) - `2022-6-23`
 - 读过[《Operating Systems》](https://book.douban.com/subject/19973015/) - `2022-6-22`
 - 看过[《遗迹守护者》](http://movie.douban.com/subject/1416692/) - `2022-6-19`
 - 读过[《Internet of Things Projects with ESP32》](https://book.douban.com/subject/35381760/) - `2022-6-19`
 - 看过[《遗迹守护者》](http://movie.douban.com/subject/30486664/) - `2022-6-18`
 - 看过[《派对浪客诸葛孔明》](http://movie.douban.com/subject/35633903/) - `2022-6-17`
-- 看过[《街角魔族》](http://movie.douban.com/subject/30446565/) - `2022-6-14`
-- 玩过[《使命召唤：现代战争2 Call of Duty: Modern Warfare 2》](http://www.douban.com/game/10734060/) - `2022-6-14`
-- 读过[《饥饿的女儿》](https://book.douban.com/subject/26727035/) - `2022-6-13`
-- 看过[《侏罗纪世界3》](http://movie.douban.com/subject/26873582/) - `2022-6-10`
-- 看过[《百变狸猫》](http://movie.douban.com/subject/1303907/) - `2022-6-09`
 
 </td>
 </tr>
