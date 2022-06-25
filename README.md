@@ -30,6 +30,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《约会大作战4》](http://movie.douban.com/subject/35002367/) - `2022-6-24`
 - 看过[《古见同学有交流障碍症 第二季》](http://movie.douban.com/subject/35708647/) - `2022-6-23`
 - 看过[《相合之物》](http://movie.douban.com/subject/35438300/) - `2022-6-23`
 - 读过[《革命与历史》](https://book.douban.com/subject/1228042/) - `2022-6-23`
@@ -39,7 +40,6 @@
 - 看过[《遗迹守护者》](http://movie.douban.com/subject/1416692/) - `2022-6-19`
 - 读过[《Internet of Things Projects with ESP32》](https://book.douban.com/subject/35381760/) - `2022-6-19`
 - 看过[《遗迹守护者》](http://movie.douban.com/subject/30486664/) - `2022-6-18`
-- 看过[《派对浪客诸葛孔明》](http://movie.douban.com/subject/35633903/) - `2022-6-17`
 
 </td>
 </tr>
