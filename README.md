@@ -30,6 +30,7 @@
 
 ### 📚 Douban activities
 
+- 看过[《苍穹浩瀚 第一季》](http://movie.douban.com/subject/25926851/) - `2022-7-26`
 - 看过[《刺杀肯尼迪》](http://movie.douban.com/subject/1292230/) - `2022-7-23`
 - 读过[《Data Science from Scratch》](https://book.douban.com/subject/26364377/) - `2022-7-22`
 - 看过[《偶然与想象》](http://movie.douban.com/subject/35360296/) - `2022-7-21`
@@ -39,7 +40,6 @@
 - 看过[《光年正传》](http://movie.douban.com/subject/35284168/) - `2022-7-17`
 - 看过[《无头骑士异闻录第二季：结 OVA》](http://movie.douban.com/subject/26746536/) - `2022-7-16`
 - 看过[《无头骑士异闻录第二季：转 OVA》](http://movie.douban.com/subject/26605863/) - `2022-7-16`
-- 看过[《无头骑士异闻录第二季：承 OVA》](http://movie.douban.com/subject/26331539/) - `2022-7-16`
 
 </td>
 </tr>
