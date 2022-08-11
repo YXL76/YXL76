@@ -37,7 +37,7 @@ jobs:
           plugin_reactions_details: percentage
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, languages-graphs, editors-graphs, os-graphs
+          plugin_wakatime_sections: time, languages-graphs, os-graphs
           plugin_wakatime_limit: 10
           plugin_rss: yes
           plugin_rss_source: https://www.douban.com/feed/people/${{ secrets.DOUBAN_UID }}/interests
