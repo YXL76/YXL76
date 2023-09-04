@@ -27,20 +27,20 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_analysis_timeout: 15
           plugin_followup: yes
-          plugin_followup_sections: repositories, user
+          plugin_followup_sections: user
           plugin_followup_indepth: yes
           plugin_followup_archived: yes
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: no
           plugin_notable_indepth: no
-          plugin_notable_types: pull_request, issue
+          plugin_notable_types: commit, pull_request, issue
           plugin_reactions: yes
           plugin_reactions_details: percentage
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_sections: languages-graphs, os-graphs
-          plugin_wakatime_limit: 10
-          plugin_rss: yes
+          plugin_wakatime_limit: 5
+          plugin_rss: no
           plugin_rss_source: https://www.douban.com/feed/people/${{ secrets.DOUBAN_UID }}/interests
           plugin_rss_limit: 10
